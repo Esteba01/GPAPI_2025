@@ -35,3 +35,11 @@ Este proyecto utiliza Python 3.7. A continuación, se detallan los pasos para co
 ## Notas adicionales
 - Asegúrate de tener Python 3.7 instalado en tu sistema.
 - Si no tienes un archivo `requirements.txt`, consulta la documentación del proyecto para conocer las dependencias necesarias.
+## Crear contraseñas de aplicaciones de Google
+
+5. **Crear una contraseña de aplicación de Google**  
+    Si necesitas acceso a servicios de Google, crea una contraseña de aplicación siguiendo estos pasos:  
+    - Accede al siguiente enlace: [Google App Passwords](https://myaccount.google.com/u/0/apppasswords?rapt=AEjHL4M3ovyeWlkUURdrF3OEvLbTCho24puGH0IcKXKD1TZlIyrqiovPbgwDJZ81eYGmrO3NFXihcuG4z_nxsUTzqDMt2-UR1LG8Pn7UXRWLlwus0L4Rt0Y&pageId=none).  
+    - Inicia sesión con tu cuenta de Google.  
+    - Sigue las instrucciones para generar una contraseña de aplicación.  
+    - Guarda la contraseña generada en un lugar seguro, ya que será necesaria para la configuración del proyecto.
