@@ -9,6 +9,11 @@ Este proyecto utiliza Python 3.7. A continuación, se detallan los pasos para co
     ```bash
     python3.7 -m venv venv
     ```
+    - En Windows (el que me funcionó)
+      ```bash
+      py -3.7 -m venv venv
+      ```
+
 
 2. **Activar el entorno virtual**  
     - En Windows:
