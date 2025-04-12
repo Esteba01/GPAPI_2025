@@ -3,8 +3,8 @@
         "backendId": 3,
         "child": [
             {
-                "docid": "1328591070273066669",
-                "backendDocid": "349427647283650955",
+                "docid": "-7983520361908530320",
+                "backendDocid": "3255309710136401770",
                 "docType": 45,
                 "backendId": 3,
                 "child": [
@@ -144,8 +144,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.518245,
-                            "ratingsCount": "29475981"
+                            "starRating": 4.5178823,
+                            "ratingsCount": "29537570"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -167,6 +167,177 @@
                         "unknownCategoryContainer": {},
                         "descriptionShort": "Explore, connect and share your interests with real people",
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.facebook.lite"
+                    },
+                    {
+                        "docid": "com.zhiliaoapp.musically.go",
+                        "backendDocid": "com.zhiliaoapp.musically.go",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "TikTok Lite - Save Data & Fast",
+                        "creator": "TikTok Pte. Ltd.",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": false,
+                                "offerType": 1,
+                                "message": "Buy"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": true
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/dZKruTBMcHz48KM_Wyuu0KediubwPkvwKUs43GhKpN8771nmmIEBrHWbcyOORNE8iA",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#5C101F"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/ge5NVkiP6GfhuMRhzHCToFGguXpbr1-MwgLtev6OCgKSDwbJD8adCNl-702hKjnSHBc",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#000000"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 380602,
+                                "versionString": "38.6.2",
+                                "installationSize": "47732284",
+                                "permission": [
+                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+                                    "android.permission.ACCESS_COARSE_LOCATION",
+                                    "android.permission.ACCESS_FINE_LOCATION",
+                                    "android.permission.ACCESS_NETWORK_STATE",
+                                    "android.permission.ACCESS_WIFI_STATE",
+                                    "android.permission.BLUETOOTH",
+                                    "android.permission.BLUETOOTH_ADMIN",
+                                    "android.permission.BLUETOOTH_ADVERTISE",
+                                    "android.permission.BLUETOOTH_CONNECT",
+                                    "android.permission.BLUETOOTH_SCAN",
+                                    "android.permission.CAMERA",
+                                    "android.permission.CHANGE_WIFI_STATE",
+                                    "android.permission.DETECT_SCREEN_CAPTURE",
+                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+                                    "android.permission.GET_TASKS",
+                                    "android.permission.INTERNET",
+                                    "android.permission.MODIFY_AUDIO_SETTINGS",
+                                    "android.permission.NEARBY_WIFI_DEVICES",
+                                    "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.READ_APP_BADGE",
+                                    "android.permission.READ_CONTACTS",
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_AUDIO",
+                                    "android.permission.READ_MEDIA_IMAGES",
+                                    "android.permission.READ_MEDIA_VIDEO",
+                                    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+                                    "android.permission.RECEIVE_BOOT_COMPLETED",
+                                    "android.permission.RECORD_AUDIO",
+                                    "android.permission.SET_WALLPAPER",
+                                    "android.permission.UPDATE_APP_BADGE",
+                                    "android.permission.VIBRATE",
+                                    "android.permission.WAKE_LOCK",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "android.permission.WRITE_SYNC_SETTINGS",
+                                    "com.anddoes.launcher.permission.UPDATE_COUNT",
+                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
+                                    "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+                                    "com.android.vending.BILLING",
+                                    "com.google.android.c2dm.permission.RECEIVE",
+                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                                    "com.google.android.gms.permission.AD_ID",
+                                    "com.htc.launcher.permission.READ_SETTINGS",
+                                    "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                                    "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                                    "com.huawei.android.launcher.permission.READ_SETTINGS",
+                                    "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                                    "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+                                    "com.majeur.launcher.permission.UPDATE_BADGE",
+                                    "com.oppo.launcher.permission.READ_SETTINGS",
+                                    "com.oppo.launcher.permission.WRITE_SETTINGS",
+                                    "com.orange.update.permission.READ_ATTRIBUTION",
+                                    "com.samsung.android.mapsagent.permission.READ_APP_INFO",
+                                    "com.sec.android.provider.badge.permission.READ",
+                                    "com.sec.android.provider.badge.permission.WRITE",
+                                    "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                                    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+                                    "com.vivo.notification.permission.BADGE_ICON",
+                                    "com.zhiliaoapp.musically.go.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "me.everything.badger.permission.BADGE_COUNT_READ",
+                                    "me.everything.badger.permission.BADGE_COUNT_WRITE"
+                                ],
+                                "numDownloads": "1,000,000,000+ downloads",
+                                "packageName": "com.zhiliaoapp.musically.go",
+                                "uploadDate": "Apr 8, 2025",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 380602,
+                                        "size": "47732284"
+                                    }
+                                ],
+                                "unstable": true,
+                                "hasInstantLink": true,
+                                "containsAds": "Contains ads",
+                                "dependencies": {
+                                    "unknown2": "47732284",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000
+                                        },
+                                        {
+                                            "packageName": "com.google.ar.core",
+                                            "version": 210210000
+                                        }
+                                    ],
+                                    "unknown3": 34
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": false,
+                                    "subscribed1": false
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.607652,
+                            "ratingsCount": "9006018"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "Teen",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                                    "supportsFifeUrlOptions": true
+                                },
+                                "learnMoreHtmlLink": "Users Interact, Shares Location<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.zhiliaoapp.musically.go",
+                        "detailsReusable": true,
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "TikTok Lite is a smaller, faster version of TikTok",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.zhiliaoapp.musically.go"
                     },
                     {
                         "docid": "com.instagram.android",
@@ -283,8 +454,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.487087,
-                            "ratingsCount": "156264637"
+                            "starRating": 4.487295,
+                            "ratingsCount": "156370140"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -306,563 +477,6 @@
                         "unknownCategoryContainer": {},
                         "descriptionShort": "Create & share photos, stories, & reels with friends you love",
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.instagram.android"
-                    },
-                    {
-                        "docid": "com.freebasics",
-                        "backendDocid": "com.freebasics",
-                        "docType": 1,
-                        "backendId": 3,
-                        "title": "Free Basics by Facebook",
-                        "creator": "Meta Platforms, Inc.",
-                        "offer": [
-                            {
-                                "micros": "0",
-                                "currencyCode": "USD",
-                                "formattedAmount": "",
-                                "checkoutFlowRequired": false,
-                                "offerType": 1,
-                                "message": "Buy"
-                            }
-                        ],
-                        "availability": {
-                            "restriction": 1,
-                            "availableIfOwned": true
-                        },
-                        "image": [
-                            {
-                                "imageType": 2,
-                                "dimension": {
-                                    "width": 1024,
-                                    "height": 500
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/iH9tFPDt5CWy-EMMRl6ZGdYHMBxlXgCgC7uMugumjZM8vo5tJwdqeYEhi7ZfAvBN_iC5",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#8622C3"
-                            },
-                            {
-                                "imageType": 4,
-                                "dimension": {
-                                    "width": 0,
-                                    "height": 0
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/Ftge9btqZ01wWoRTZteDBjBIAm1BC79YwuY_6c6gRQQGX2MrzOuQvZ1P53jjjcIXbTbi",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
-                            }
-                        ],
-                        "details": {
-                            "appDetails": {
-                                "versionCode": 622809166,
-                                "versionString": "166.0.0.0.169",
-                                "installationSize": "4002749",
-                                "permission": [
-                                    "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.CHANGE_NETWORK_STATE",
-                                    "android.permission.GET_TASKS",
-                                    "android.permission.INTERNET",
-                                    "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.READ_PHONE_STATE",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
-                                    "android.permission.REQUEST_DELETE_PACKAGES",
-                                    "android.permission.WAKE_LOCK",
-                                    "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
-                                    "com.freebasics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-                                ],
-                                "numDownloads": "1,000,000+ downloads",
-                                "packageName": "com.freebasics",
-                                "uploadDate": "Jul 23, 2024",
-                                "file": [
-                                    {
-                                        "fileType": 0,
-                                        "versionCode": 622809166,
-                                        "size": "4002749"
-                                    }
-                                ],
-                                "unstable": true,
-                                "dependencies": {
-                                    "unknown2": "4002749",
-                                    "dependency": [
-                                        {
-                                            "packageName": "com.google.android.gms",
-                                            "version": 12451000
-                                        }
-                                    ],
-                                    "unknown3": 34
-                                }
-                            }
-                        },
-                        "aggregateRating": {
-                            "type": 1,
-                            "starRating": 3.871287,
-                            "ratingsCount": "16709"
-                        },
-                        "relatedLinks": {
-                            "rated": {
-                                "label": "Everyone",
-                                "image": {
-                                    "imageType": 6,
-                                    "dimension": {
-                                        "width": 512,
-                                        "height": 512
-                                    },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
-                                    "supportsFifeUrlOptions": true
-                                },
-                                "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            }
-                        },
-                        "detailsUrl": "details?doc=com.freebasics",
-                        "detailsReusable": true,
-                        "unknownCategoryContainer": {},
-                        "descriptionShort": "Free access to websites like Facebook, ESPN and more.",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.freebasics"
-                    },
-                    {
-                        "docid": "com.zhiliaoapp.musically",
-                        "backendDocid": "com.zhiliaoapp.musically",
-                        "docType": 1,
-                        "backendId": 3,
-                        "title": "TikTok",
-                        "creator": "TikTok Pte. Ltd.",
-                        "offer": [
-                            {
-                                "micros": "0",
-                                "currencyCode": "USD",
-                                "formattedAmount": "",
-                                "checkoutFlowRequired": false,
-                                "offerType": 1,
-                                "message": "Buy"
-                            }
-                        ],
-                        "availability": {
-                            "restriction": 1,
-                            "availableIfOwned": true
-                        },
-                        "image": [
-                            {
-                                "imageType": 2,
-                                "dimension": {
-                                    "width": 1024,
-                                    "height": 500
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/nWn4r57VWZ6WuADCIFH0u35AM4m1c2BZ4fFkOOIanz36p-qMe60c9K4j3tU_948_k9E",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#FDFDFD"
-                            },
-                            {
-                                "imageType": 4,
-                                "dimension": {
-                                    "width": 512,
-                                    "height": 512
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/aHDUtNWgtEhbstpo58TrxNMaaWp310EVnjh6VfOVQILEqWEOJzPKw0v7H73PS_JDNQ",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#220D1D"
-                            }
-                        ],
-                        "details": {
-                            "appDetails": {
-                                "versionCode": 2023902030,
-                                "versionString": "39.2.3",
-                                "installationSize": "444184084",
-                                "permission": [
-                                    "android.permission.ACCESS_ADSERVICES_AD_ID",
-                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-                                    "android.permission.ACCESS_COARSE_LOCATION",
-                                    "android.permission.ACCESS_MEDIA_LOCATION",
-                                    "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.BLUETOOTH",
-                                    "android.permission.BLUETOOTH_CONNECT",
-                                    "android.permission.CAMERA",
-                                    "android.permission.CHANGE_NETWORK_STATE",
-                                    "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-                                    "android.permission.DETECT_SCREEN_CAPTURE",
-                                    "android.permission.FOREGROUND_SERVICE",
-                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-                                    "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-                                    "android.permission.INTERNET",
-                                    "android.permission.MODIFY_AUDIO_SETTINGS",
-                                    "android.permission.POST_NOTIFICATIONS",
-                                    "android.permission.READ_CONTACTS",
-                                    "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.READ_MEDIA_AUDIO",
-                                    "android.permission.READ_MEDIA_IMAGES",
-                                    "android.permission.READ_MEDIA_VIDEO",
-                                    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
-                                    "android.permission.RECORD_AUDIO",
-                                    "android.permission.REORDER_TASKS",
-                                    "android.permission.SET_WALLPAPER",
-                                    "android.permission.SYSTEM_ALERT_WINDOW",
-                                    "android.permission.USE_BIOMETRIC",
-                                    "android.permission.USE_FINGERPRINT",
-                                    "android.permission.VIBRATE",
-                                    "android.permission.WAKE_LOCK",
-                                    "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "com.amazon.device.messaging.permission.RECEIVE",
-                                    "com.android.launcher.permission.READ_SETTINGS",
-                                    "com.android.vending.BILLING",
-                                    "com.google.android.c2dm.permission.RECEIVE",
-                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-                                    "com.google.android.gms.permission.AD_ID",
-                                    "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
-                                    "com.oplus.ocs.permission.third",
-                                    "com.orange.update.permission.READ_ATTRIBUTION",
-                                    "com.samsung.android.mapsagent.permission.READ_APP_INFO",
-                                    "com.sec.android.provider.badge.permission.READ",
-                                    "com.sec.android.provider.badge.permission.WRITE",
-                                    "com.tiktok.preload.permission.IDENTIFY",
-                                    "com.zhiliao.musically.livewallpaper.permission.wallpaperplugin",
-                                    "com.zhiliaoapp.musically.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-                                    "com.zhiliaoapp.musically.permission.RECEIVE_ADM_MESSAGE"
-                                ],
-                                "numDownloads": "1,000,000,000+ downloads",
-                                "packageName": "com.zhiliaoapp.musically",
-                                "uploadDate": "Mar 20, 2025",
-                                "file": [
-                                    {
-                                        "fileType": 0,
-                                        "versionCode": 2023902030,
-                                        "size": "444184084"
-                                    }
-                                ],
-                                "unstable": true,
-                                "hasInstantLink": true,
-                                "containsAds": "Contains ads",
-                                "dependencies": {
-                                    "unknown1": 2,
-                                    "unknown2": "444184084",
-                                    "dependency": [
-                                        {
-                                            "packageName": "com.google.android.gms",
-                                            "version": 12451000
-                                        },
-                                        {
-                                            "packageName": "com.google.ar.core",
-                                            "version": 240920000
-                                        }
-                                    ],
-                                    "unknown3": 34
-                                },
-                                "testingProgramInfo": {
-                                    "subscribed": false,
-                                    "subscribed1": false
-                                }
-                            }
-                        },
-                        "aggregateRating": {
-                            "type": 1,
-                            "starRating": 4.3694463,
-                            "ratingsCount": "62681340"
-                        },
-                        "relatedLinks": {
-                            "rated": {
-                                "label": "Teen",
-                                "image": {
-                                    "imageType": 6,
-                                    "dimension": {
-                                        "width": 512,
-                                        "height": 512
-                                    },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
-                                    "supportsFifeUrlOptions": true
-                                },
-                                "learnMoreHtmlLink": "Users Interact, Shares Location, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            }
-                        },
-                        "detailsUrl": "details?doc=com.zhiliaoapp.musically",
-                        "detailsReusable": true,
-                        "unknownCategoryContainer": {},
-                        "descriptionShort": "Videos cortos para ti",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.zhiliaoapp.musically"
-                    },
-                    {
-                        "docid": "com.zhiliaoapp.musically.go",
-                        "backendDocid": "com.zhiliaoapp.musically.go",
-                        "docType": 1,
-                        "backendId": 3,
-                        "title": "TikTok Lite - Save Data & Fast",
-                        "creator": "TikTok Pte. Ltd.",
-                        "offer": [
-                            {
-                                "micros": "0",
-                                "currencyCode": "USD",
-                                "formattedAmount": "",
-                                "checkoutFlowRequired": false,
-                                "offerType": 1,
-                                "message": "Buy"
-                            }
-                        ],
-                        "availability": {
-                            "restriction": 1,
-                            "availableIfOwned": true
-                        },
-                        "image": [
-                            {
-                                "imageType": 2,
-                                "dimension": {
-                                    "width": 1024,
-                                    "height": 500
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/dZKruTBMcHz48KM_Wyuu0KediubwPkvwKUs43GhKpN8771nmmIEBrHWbcyOORNE8iA",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#5C101F"
-                            },
-                            {
-                                "imageType": 4,
-                                "dimension": {
-                                    "width": 512,
-                                    "height": 512
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/lKxwGrH4HhGKJ48xJ506v_8lwWHgGTvKjo8k5NCjKySAC5D1x9oigjAj1NIvwOfsXVpj",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
-                            }
-                        ],
-                        "details": {
-                            "appDetails": {
-                                "versionCode": 380502,
-                                "versionString": "38.5.2",
-                                "installationSize": "46519117",
-                                "permission": [
-                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-                                    "android.permission.ACCESS_COARSE_LOCATION",
-                                    "android.permission.ACCESS_FINE_LOCATION",
-                                    "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.BLUETOOTH",
-                                    "android.permission.BLUETOOTH_ADMIN",
-                                    "android.permission.BLUETOOTH_ADVERTISE",
-                                    "android.permission.BLUETOOTH_CONNECT",
-                                    "android.permission.BLUETOOTH_SCAN",
-                                    "android.permission.CAMERA",
-                                    "android.permission.CHANGE_WIFI_STATE",
-                                    "android.permission.DETECT_SCREEN_CAPTURE",
-                                    "android.permission.FOREGROUND_SERVICE",
-                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-                                    "android.permission.GET_TASKS",
-                                    "android.permission.INTERNET",
-                                    "android.permission.MODIFY_AUDIO_SETTINGS",
-                                    "android.permission.NEARBY_WIFI_DEVICES",
-                                    "android.permission.POST_NOTIFICATIONS",
-                                    "android.permission.READ_APP_BADGE",
-                                    "android.permission.READ_CONTACTS",
-                                    "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.READ_MEDIA_AUDIO",
-                                    "android.permission.READ_MEDIA_IMAGES",
-                                    "android.permission.READ_MEDIA_VIDEO",
-                                    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
-                                    "android.permission.RECORD_AUDIO",
-                                    "android.permission.SET_WALLPAPER",
-                                    "android.permission.UPDATE_APP_BADGE",
-                                    "android.permission.VIBRATE",
-                                    "android.permission.WAKE_LOCK",
-                                    "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "android.permission.WRITE_SYNC_SETTINGS",
-                                    "com.anddoes.launcher.permission.UPDATE_COUNT",
-                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
-                                    "com.android.launcher.permission.UNINSTALL_SHORTCUT",
-                                    "com.android.vending.BILLING",
-                                    "com.google.android.c2dm.permission.RECEIVE",
-                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-                                    "com.google.android.gms.permission.AD_ID",
-                                    "com.htc.launcher.permission.READ_SETTINGS",
-                                    "com.htc.launcher.permission.UPDATE_SHORTCUT",
-                                    "com.huawei.android.launcher.permission.CHANGE_BADGE",
-                                    "com.huawei.android.launcher.permission.READ_SETTINGS",
-                                    "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-                                    "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
-                                    "com.majeur.launcher.permission.UPDATE_BADGE",
-                                    "com.oppo.launcher.permission.READ_SETTINGS",
-                                    "com.oppo.launcher.permission.WRITE_SETTINGS",
-                                    "com.orange.update.permission.READ_ATTRIBUTION",
-                                    "com.samsung.android.mapsagent.permission.READ_APP_INFO",
-                                    "com.sec.android.provider.badge.permission.READ",
-                                    "com.sec.android.provider.badge.permission.WRITE",
-                                    "com.sonyericsson.home.permission.BROADCAST_BADGE",
-                                    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-                                    "com.vivo.notification.permission.BADGE_ICON",
-                                    "com.zhiliaoapp.musically.go.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-                                    "me.everything.badger.permission.BADGE_COUNT_READ",
-                                    "me.everything.badger.permission.BADGE_COUNT_WRITE"
-                                ],
-                                "numDownloads": "1,000,000,000+ downloads",
-                                "packageName": "com.zhiliaoapp.musically.go",
-                                "uploadDate": "Mar 27, 2025",
-                                "file": [
-                                    {
-                                        "fileType": 0,
-                                        "versionCode": 380502,
-                                        "size": "46519117"
-                                    }
-                                ],
-                                "unstable": true,
-                                "hasInstantLink": true,
-                                "containsAds": "Contains ads",
-                                "dependencies": {
-                                    "unknown2": "46519117",
-                                    "dependency": [
-                                        {
-                                            "packageName": "com.google.android.gms",
-                                            "version": 12451000
-                                        },
-                                        {
-                                            "packageName": "com.google.ar.core",
-                                            "version": 210210000
-                                        }
-                                    ],
-                                    "unknown3": 34
-                                },
-                                "testingProgramInfo": {
-                                    "subscribed": false,
-                                    "subscribed1": false
-                                }
-                            }
-                        },
-                        "aggregateRating": {
-                            "type": 1,
-                            "starRating": 4.604608,
-                            "ratingsCount": "8945095"
-                        },
-                        "relatedLinks": {
-                            "rated": {
-                                "label": "Teen",
-                                "image": {
-                                    "imageType": 6,
-                                    "dimension": {
-                                        "width": 512,
-                                        "height": 512
-                                    },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
-                                    "supportsFifeUrlOptions": true
-                                },
-                                "learnMoreHtmlLink": "Users Interact, Shares Location<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            }
-                        },
-                        "detailsUrl": "details?doc=com.zhiliaoapp.musically.go",
-                        "detailsReusable": true,
-                        "unknownCategoryContainer": {},
-                        "descriptionShort": "TikTok Lite is a smaller, faster version of TikTok",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.zhiliaoapp.musically.go"
-                    },
-                    {
-                        "docid": "it.rignanese.leo.slimfacebook",
-                        "backendDocid": "it.rignanese.leo.slimfacebook",
-                        "docType": 1,
-                        "backendId": 3,
-                        "title": "SlimSocial",
-                        "creator": "Leonardo Rignanese",
-                        "offer": [
-                            {
-                                "micros": "0",
-                                "currencyCode": "USD",
-                                "formattedAmount": "",
-                                "checkoutFlowRequired": false,
-                                "offerType": 1,
-                                "message": "Buy"
-                            }
-                        ],
-                        "availability": {
-                            "restriction": 1,
-                            "availableIfOwned": true
-                        },
-                        "image": [
-                            {
-                                "imageType": 2,
-                                "dimension": {
-                                    "width": 1024,
-                                    "height": 500
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/Ejct9BA0imBYIBD70Xrn0jvZhNpaKXRu-ObiBkbPGjlupIc5ubCu_bnuvFzjaP_Keg",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#2A4A88"
-                            },
-                            {
-                                "imageType": 4,
-                                "dimension": {
-                                    "width": 512,
-                                    "height": 512
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/LBavTzyVHNvJLujHd7IBcTtAyh4hWBEIZOe7GDYd2KfVdZNbLKwguVfw2o7UJ73ovw",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#4760A2"
-                            }
-                        ],
-                        "details": {
-                            "appDetails": {
-                                "versionCode": 112,
-                                "versionString": "10.0.12",
-                                "installationSize": "7873266",
-                                "permission": [
-                                    "android.permission.ACCESS_FINE_LOCATION",
-                                    "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
-                                    "android.permission.INTERNET",
-                                    "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.READ_MEDIA_IMAGES",
-                                    "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "com.android.vending.BILLING",
-                                    "it.rignanese.leo.slimfacebook.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-                                ],
-                                "numDownloads": "500,000+ downloads",
-                                "packageName": "it.rignanese.leo.slimfacebook",
-                                "uploadDate": "Apr 27, 2024",
-                                "file": [
-                                    {
-                                        "fileType": 0,
-                                        "versionCode": 112,
-                                        "size": "7873266"
-                                    }
-                                ],
-                                "unstable": true,
-                                "hasInstantLink": true,
-                                "dependencies": {
-                                    "unknown2": "7873266",
-                                    "dependency": [
-                                        {
-                                            "packageName": "com.google.android.gms",
-                                            "version": 12451000
-                                        }
-                                    ],
-                                    "unknown3": 33
-                                },
-                                "testingProgramInfo": {
-                                    "subscribed": false,
-                                    "subscribed1": false
-                                }
-                            }
-                        },
-                        "aggregateRating": {
-                            "type": 1,
-                            "starRating": 3.9487178,
-                            "ratingsCount": "7516"
-                        },
-                        "relatedLinks": {
-                            "rated": {
-                                "label": "Everyone",
-                                "image": {
-                                    "imageType": 6,
-                                    "dimension": {
-                                        "width": 512,
-                                        "height": 512
-                                    },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
-                                    "supportsFifeUrlOptions": true
-                                },
-                                "learnMoreHtmlLink": "Users Interact, Shares Info<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            }
-                        },
-                        "detailsUrl": "details?doc=it.rignanese.leo.slimfacebook",
-                        "detailsReusable": true,
-                        "unknownCategoryContainer": {},
-                        "descriptionShort": "Enjoy Facebook in a smart way (Unofficial app)",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=it.rignanese.leo.slimfacebook"
                     },
                     {
                         "docid": "com.snapchat.android",
@@ -909,9 +523,9 @@
                         ],
                         "details": {
                             "appDetails": {
-                                "versionCode": 196172,
-                                "versionString": "13.34.0.52",
-                                "installationSize": "165521800",
+                                "versionCode": 199722,
+                                "versionString": "13.36.2.0",
+                                "installationSize": "165348383",
                                 "permission": [
                                     "android.permission.ACCESS_BACKGROUND_LOCATION",
                                     "android.permission.ACCESS_FINE_LOCATION",
@@ -988,12 +602,12 @@
                                 ],
                                 "numDownloads": "1,000,000,000+ downloads",
                                 "packageName": "com.snapchat.android",
-                                "uploadDate": "Mar 25, 2025",
+                                "uploadDate": "Apr 10, 2025",
                                 "file": [
                                     {
                                         "fileType": 0,
-                                        "versionCode": 196172,
-                                        "size": "165521800"
+                                        "versionCode": 199722,
+                                        "size": "165348383"
                                     }
                                 ],
                                 "unstable": true,
@@ -1001,7 +615,7 @@
                                 "containsAds": "Contains ads",
                                 "dependencies": {
                                     "unknown1": 2,
-                                    "unknown2": "165521800",
+                                    "unknown2": "165348383",
                                     "dependency": [
                                         {
                                             "packageName": "com.google.android.gms",
@@ -1022,8 +636,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.2811794,
-                            "ratingsCount": "35176048"
+                            "starRating": 4.281583,
+                            "ratingsCount": "35174878"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -1045,6 +659,169 @@
                         "unknownCategoryContainer": {},
                         "descriptionShort": "Share the moment!",
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.snapchat.android"
+                    },
+                    {
+                        "docid": "com.zhiliaoapp.musically",
+                        "backendDocid": "com.zhiliaoapp.musically",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "TikTok",
+                        "creator": "TikTok Pte. Ltd.",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": false,
+                                "offerType": 1,
+                                "message": "Buy"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": true
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/nWn4r57VWZ6WuADCIFH0u35AM4m1c2BZ4fFkOOIanz36p-qMe60c9K4j3tU_948_k9E",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#FDFDFD"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/aHDUtNWgtEhbstpo58TrxNMaaWp310EVnjh6VfOVQILEqWEOJzPKw0v7H73PS_JDNQ",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#220D1D"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 2023905030,
+                                "versionString": "39.5.3",
+                                "installationSize": "459636495",
+                                "permission": [
+                                    "android.permission.ACCESS_ADSERVICES_AD_ID",
+                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+                                    "android.permission.ACCESS_COARSE_LOCATION",
+                                    "android.permission.ACCESS_MEDIA_LOCATION",
+                                    "android.permission.ACCESS_NETWORK_STATE",
+                                    "android.permission.ACCESS_WIFI_STATE",
+                                    "android.permission.BLUETOOTH",
+                                    "android.permission.BLUETOOTH_ADVERTISE",
+                                    "android.permission.BLUETOOTH_CONNECT",
+                                    "android.permission.BLUETOOTH_SCAN",
+                                    "android.permission.CAMERA",
+                                    "android.permission.CHANGE_NETWORK_STATE",
+                                    "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                                    "android.permission.DETECT_SCREEN_CAPTURE",
+                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+                                    "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+                                    "android.permission.INTERNET",
+                                    "android.permission.MODIFY_AUDIO_SETTINGS",
+                                    "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.READ_CONTACTS",
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_AUDIO",
+                                    "android.permission.READ_MEDIA_IMAGES",
+                                    "android.permission.READ_MEDIA_VIDEO",
+                                    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+                                    "android.permission.RECORD_AUDIO",
+                                    "android.permission.REORDER_TASKS",
+                                    "android.permission.SET_WALLPAPER",
+                                    "android.permission.SYSTEM_ALERT_WINDOW",
+                                    "android.permission.USE_BIOMETRIC",
+                                    "android.permission.USE_FINGERPRINT",
+                                    "android.permission.VIBRATE",
+                                    "android.permission.WAKE_LOCK",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "com.amazon.device.messaging.permission.RECEIVE",
+                                    "com.android.launcher.permission.READ_SETTINGS",
+                                    "com.android.vending.BILLING",
+                                    "com.google.android.c2dm.permission.RECEIVE",
+                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                                    "com.google.android.gms.permission.AD_ID",
+                                    "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+                                    "com.oplus.ocs.permission.third",
+                                    "com.orange.update.permission.READ_ATTRIBUTION",
+                                    "com.samsung.android.mapsagent.permission.READ_APP_INFO",
+                                    "com.sec.android.provider.badge.permission.READ",
+                                    "com.sec.android.provider.badge.permission.WRITE",
+                                    "com.tiktok.preload.permission.IDENTIFY",
+                                    "com.zhiliao.musically.livewallpaper.permission.wallpaperplugin",
+                                    "com.zhiliaoapp.musically.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "com.zhiliaoapp.musically.permission.RECEIVE_ADM_MESSAGE"
+                                ],
+                                "numDownloads": "1,000,000,000+ downloads",
+                                "packageName": "com.zhiliaoapp.musically",
+                                "uploadDate": "Apr 11, 2025",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 2023905030,
+                                        "size": "459636495"
+                                    }
+                                ],
+                                "unstable": true,
+                                "hasInstantLink": true,
+                                "containsAds": "Contains ads",
+                                "dependencies": {
+                                    "unknown1": 2,
+                                    "unknown2": "459636495",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000
+                                        },
+                                        {
+                                            "packageName": "com.google.ar.core",
+                                            "version": 240920000
+                                        }
+                                    ],
+                                    "unknown3": 34
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": false,
+                                    "subscribed1": false
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.3690557,
+                            "ratingsCount": "62735157"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "Teen",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                                    "supportsFifeUrlOptions": true
+                                },
+                                "learnMoreHtmlLink": "Users Interact, Shares Location, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.zhiliaoapp.musically",
+                        "detailsReusable": true,
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Videos cortos para ti",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.zhiliaoapp.musically"
                     },
                     {
                         "docid": "com.pinterest",
@@ -1162,8 +939,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.614749,
-                            "ratingsCount": "10180958"
+                            "starRating": 4.6058693,
+                            "ratingsCount": "10199705"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -1187,12 +964,12 @@
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.pinterest"
                     },
                     {
-                        "docid": "com.facebook.viewpoints",
-                        "backendDocid": "com.facebook.viewpoints",
+                        "docid": "it.rignanese.leo.slimfacebook",
+                        "backendDocid": "it.rignanese.leo.slimfacebook",
                         "docType": 1,
                         "backendId": 3,
-                        "title": "Viewpoints",
-                        "creator": "Meta Platforms, Inc.",
+                        "title": "SlimSocial",
+                        "creator": "Leonardo Rignanese",
                         "offer": [
                             {
                                 "micros": "0",
@@ -1211,75 +988,72 @@
                             {
                                 "imageType": 2,
                                 "dimension": {
-                                    "width": 0,
-                                    "height": 0
+                                    "width": 1024,
+                                    "height": 500
                                 },
-                                "imageUrl": "https://play-lh.googleusercontent.com/-uS41IcOhk2xtx_21RTwJlx4w4y-C73mAPnhr-ilY7GjQm62B9DIwz02rERnmNFAkNo",
+                                "imageUrl": "https://play-lh.googleusercontent.com/Ejct9BA0imBYIBD70Xrn0jvZhNpaKXRu-ObiBkbPGjlupIc5ubCu_bnuvFzjaP_Keg",
                                 "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
+                                "color": "#2A4A88"
                             },
                             {
                                 "imageType": 4,
                                 "dimension": {
-                                    "width": 0,
-                                    "height": 0
+                                    "width": 512,
+                                    "height": 512
                                 },
-                                "imageUrl": "https://play-lh.googleusercontent.com/3Jpl4w27oe8oeNhBxyJFqBpTWAmNdfsD8tNbYp-dUfsYfRlztL-mpxL56Tt58dPOuA",
+                                "imageUrl": "https://play-lh.googleusercontent.com/LBavTzyVHNvJLujHd7IBcTtAyh4hWBEIZOe7GDYd2KfVdZNbLKwguVfw2o7UJ73ovw",
                                 "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
+                                "color": "#4760A2"
                             }
                         ],
                         "details": {
                             "appDetails": {
-                                "versionCode": 706338336,
-                                "versionString": "266.0.0.1.108",
-                                "installationSize": "20375181",
+                                "versionCode": 112,
+                                "versionString": "10.0.12",
+                                "installationSize": "7873266",
                                 "permission": [
                                     "android.permission.ACCESS_FINE_LOCATION",
                                     "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
                                     "android.permission.INTERNET",
-                                    "android.permission.PACKAGE_USAGE_STATS",
-                                    "android.permission.POST_NOTIFICATIONS",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
-                                    "android.permission.RECORD_AUDIO",
-                                    "android.permission.VIBRATE",
-                                    "android.permission.WAKE_LOCK",
-                                    "com.facebook.anna.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-                                    "com.facebook.katana.provider.ACCESS",
-                                    "com.facebook.wakizashi.provider.ACCESS",
-                                    "com.google.android.c2dm.permission.RECEIVE",
-                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-                                    "com.google.android.gms.permission.AD_ID"
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_IMAGES",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "com.android.vending.BILLING",
+                                    "it.rignanese.leo.slimfacebook.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
                                 ],
-                                "numDownloads": "10,000,000+ downloads",
-                                "packageName": "com.facebook.viewpoints",
-                                "uploadDate": "Mar 8, 2025",
+                                "numDownloads": "500,000+ downloads",
+                                "packageName": "it.rignanese.leo.slimfacebook",
+                                "uploadDate": "Apr 27, 2024",
                                 "file": [
                                     {
                                         "fileType": 0,
-                                        "versionCode": 706338336,
-                                        "size": "20375181"
+                                        "versionCode": 112,
+                                        "size": "7873266"
                                     }
                                 ],
                                 "unstable": true,
+                                "hasInstantLink": true,
                                 "dependencies": {
-                                    "unknown2": "20375181",
+                                    "unknown2": "7873266",
                                     "dependency": [
                                         {
                                             "packageName": "com.google.android.gms",
                                             "version": 12451000
                                         }
                                     ],
-                                    "unknown3": 34
+                                    "unknown3": 33
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": false,
+                                    "subscribed1": false
                                 }
                             }
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.7722774,
-                            "ratingsCount": "104318"
+                            "starRating": 3.9487178,
+                            "ratingsCount": "7528"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -1293,14 +1067,357 @@
                                     "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
                                     "supportsFifeUrlOptions": true
                                 },
-                                "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                                "learnMoreHtmlLink": "Users Interact, Shares Info<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
                             }
                         },
-                        "detailsUrl": "details?doc=com.facebook.viewpoints",
+                        "detailsUrl": "details?doc=it.rignanese.leo.slimfacebook",
                         "detailsReusable": true,
                         "unknownCategoryContainer": {},
-                        "descriptionShort": "Get rewarded for helping improve apps and services you use every day.",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.facebook.viewpoints"
+                        "descriptionShort": "Enjoy Facebook in a smart way (Unofficial app)",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=it.rignanese.leo.slimfacebook"
+                    },
+                    {
+                        "docid": "com.whatsapp.w4b",
+                        "backendDocid": "com.whatsapp.w4b",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "WhatsApp Business",
+                        "creator": "WhatsApp LLC",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": false,
+                                "offerType": 1,
+                                "message": "Buy"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": true
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/vHqPkl7lwqGANNQxpSrA3DN77-8k4SxIKITDMSVj01ObgiuPTO5Uv3evk0JUfEvwOQ",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#003A27"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/K6L_Ixmw0J9oTktAoHyEHvzQIfxEF1CIQ5aE0WHhdUeOgfAmn7KLhe47Q5XxZaXQ0g",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#01DC4E"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 250978001,
+                                "versionString": "2.25.9.78",
+                                "installationSize": "70969218",
+                                "permission": [
+                                    "android.permission.ACCESS_COARSE_LOCATION",
+                                    "android.permission.ACCESS_FINE_LOCATION",
+                                    "android.permission.ACCESS_MEDIA_LOCATION",
+                                    "android.permission.ACCESS_NETWORK_STATE",
+                                    "android.permission.ACCESS_WIFI_STATE",
+                                    "android.permission.ANSWER_PHONE_CALLS",
+                                    "android.permission.AUTHENTICATE_ACCOUNTS",
+                                    "android.permission.BLUETOOTH",
+                                    "android.permission.BLUETOOTH_ADMIN",
+                                    "android.permission.BLUETOOTH_ADVERTISE",
+                                    "android.permission.BLUETOOTH_CONNECT",
+                                    "android.permission.BLUETOOTH_SCAN",
+                                    "android.permission.BROADCAST_STICKY",
+                                    "android.permission.CALL_PHONE",
+                                    "android.permission.CAMERA",
+                                    "android.permission.CHANGE_NETWORK_STATE",
+                                    "android.permission.CHANGE_WIFI_STATE",
+                                    "android.permission.DETECT_SCREEN_CAPTURE",
+                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.FOREGROUND_SERVICE_CAMERA",
+                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                                    "android.permission.FOREGROUND_SERVICE_LOCATION",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+                                    "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+                                    "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+                                    "android.permission.GET_ACCOUNTS",
+                                    "android.permission.GET_TASKS",
+                                    "android.permission.INSTALL_SHORTCUT",
+                                    "android.permission.INTERNET",
+                                    "android.permission.MANAGE_ACCOUNTS",
+                                    "android.permission.MANAGE_OWN_CALLS",
+                                    "android.permission.MODIFY_AUDIO_SETTINGS",
+                                    "android.permission.NEARBY_WIFI_DEVICES",
+                                    "android.permission.NFC",
+                                    "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.READ_CALL_LOG",
+                                    "android.permission.READ_CONTACTS",
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_AUDIO",
+                                    "android.permission.READ_MEDIA_IMAGES",
+                                    "android.permission.READ_MEDIA_VIDEO",
+                                    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+                                    "android.permission.READ_PHONE_NUMBERS",
+                                    "android.permission.READ_PHONE_STATE",
+                                    "android.permission.READ_PROFILE",
+                                    "android.permission.READ_SYNC_SETTINGS",
+                                    "android.permission.READ_SYNC_STATS",
+                                    "android.permission.RECEIVE_BOOT_COMPLETED",
+                                    "android.permission.RECORD_AUDIO",
+                                    "android.permission.REQUEST_INSTALL_PACKAGES",
+                                    "android.permission.RUN_USER_INITIATED_JOBS",
+                                    "android.permission.SCHEDULE_EXACT_ALARM",
+                                    "android.permission.SEND_SMS",
+                                    "android.permission.USE_BIOMETRIC",
+                                    "android.permission.USE_CREDENTIALS",
+                                    "android.permission.USE_FINGERPRINT",
+                                    "android.permission.USE_FULL_SCREEN_INTENT",
+                                    "android.permission.VIBRATE",
+                                    "android.permission.WAKE_LOCK",
+                                    "android.permission.WRITE_CONTACTS",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "android.permission.WRITE_SYNC_SETTINGS",
+                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
+                                    "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+                                    "com.android.vending.BILLING",
+                                    "com.facebook.services.identity.FEO2",
+                                    "com.google.android.c2dm.permission.RECEIVE",
+                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                                    "com.google.android.gms.permission.AD_ID",
+                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
+                                    "com.htc.launcher.permission.READ_SETTINGS",
+                                    "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                                    "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                                    "com.huawei.android.launcher.permission.READ_SETTINGS",
+                                    "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                                    "com.sec.android.provider.badge.permission.READ",
+                                    "com.sec.android.provider.badge.permission.WRITE",
+                                    "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                                    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+                                    "com.whatsapp.permission.MIGRATION_CONTENT_PROVIDER",
+                                    "com.whatsapp.permission.REGISTRATION",
+                                    "com.whatsapp.sticker.READ",
+                                    "com.whatsapp.w4b.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "com.whatsapp.w4b.permission.BROADCAST",
+                                    "com.whatsapp.w4b.permission.MAPS_RECEIVE"
+                                ],
+                                "numDownloads": "1,000,000,000+ downloads",
+                                "packageName": "com.whatsapp.w4b",
+                                "uploadDate": "Apr 2, 2025",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 250978001,
+                                        "size": "70969218"
+                                    }
+                                ],
+                                "unstable": true,
+                                "hasInstantLink": true,
+                                "dependencies": {
+                                    "unknown2": "70969218",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000
+                                        }
+                                    ],
+                                    "unknown3": 35
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": false,
+                                    "subscribed1": false
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.436184,
+                            "ratingsCount": "15796048"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "Everyone",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                                    "supportsFifeUrlOptions": true
+                                },
+                                "learnMoreHtmlLink": "Users Interact, Shares Location<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.whatsapp.w4b",
+                        "detailsReusable": true,
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Simple tool for businesses to talk to their customers.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.whatsapp.w4b"
+                    },
+                    {
+                        "docid": "com.android.chrome",
+                        "backendDocid": "com.android.chrome",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Google Chrome",
+                        "creator": "Google LLC",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": false,
+                                "offerType": 1,
+                                "message": "Buy"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": true
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/yZPtmF--wo_V78QRe00YWjnHBnTISZZJeSo4WbSsJpFBRI1MNsv6sN1UxRBIK6mbtQ",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#E8E9E9"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#FFFFFF"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 604519320,
+                                "versionString": "119.0.6045.193",
+                                "installationSize": "138193677",
+                                "permission": [
+                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+                                    "android.permission.ACCESS_COARSE_LOCATION",
+                                    "android.permission.ACCESS_FINE_LOCATION",
+                                    "android.permission.ACCESS_NETWORK_STATE",
+                                    "android.permission.ACCESS_WIFI_STATE",
+                                    "android.permission.BLUETOOTH",
+                                    "android.permission.BLUETOOTH_ADMIN",
+                                    "android.permission.BLUETOOTH_ADVERTISE",
+                                    "android.permission.BLUETOOTH_CONNECT",
+                                    "android.permission.BLUETOOTH_SCAN",
+                                    "android.permission.CAMERA",
+                                    "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS",
+                                    "android.permission.CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERS",
+                                    "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+                                    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+                                    "android.permission.GET_ACCOUNTS",
+                                    "android.permission.INTERNET",
+                                    "android.permission.MANAGE_ACCOUNTS",
+                                    "android.permission.MODIFY_AUDIO_SETTINGS",
+                                    "android.permission.NFC",
+                                    "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.QUERY_ALL_PACKAGES",
+                                    "android.permission.READ_CONTACTS",
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_AUDIO",
+                                    "android.permission.READ_MEDIA_IMAGES",
+                                    "android.permission.READ_MEDIA_VIDEO",
+                                    "android.permission.RECEIVE_BOOT_COMPLETED",
+                                    "android.permission.RECORD_AUDIO",
+                                    "android.permission.REORDER_TASKS",
+                                    "android.permission.REQUEST_INSTALL_PACKAGES",
+                                    "android.permission.RUN_USER_INITIATED_JOBS",
+                                    "android.permission.USE_BIOMETRIC",
+                                    "android.permission.USE_CREDENTIALS",
+                                    "android.permission.USE_FINGERPRINT",
+                                    "android.permission.VIBRATE",
+                                    "android.permission.WAKE_LOCK",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "com.android.chrome.TOS_ACKED",
+                                    "com.android.chrome.permission.C2D_MESSAGE",
+                                    "com.android.chrome.permission.READ_WRITE_BOOKMARK_FOLDERS",
+                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
+                                    "com.chrome.permission.DEVICE_EXTRAS",
+                                    "com.google.android.apps.now.CURRENT_ACCOUNT_ACCESS",
+                                    "com.google.android.c2dm.permission.RECEIVE",
+                                    "com.google.android.googlequicksearchbox.permission.LENS_SERVICE",
+                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
+                                    "com.sec.enterprise.knox.MDM_CONTENT_PROVIDER"
+                                ],
+                                "numDownloads": "10,000,000,000+ downloads",
+                                "packageName": "com.android.chrome",
+                                "uploadDate": "Nov 28, 2023",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 604519320,
+                                        "size": "138193677"
+                                    }
+                                ],
+                                "unstable": true,
+                                "dependencies": {
+                                    "unknown2": "138193677",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 234006000
+                                        },
+                                        {
+                                            "packageName": "com.google.ar.core",
+                                            "version": 221020000
+                                        }
+                                    ],
+                                    "unknown3": 34
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.1030903,
+                            "ratingsCount": "44844374"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "Everyone",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                                    "supportsFifeUrlOptions": true
+                                },
+                                "learnMoreHtmlLink": "Unrestricted Internet<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.android.chrome",
+                        "detailsReusable": true,
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Google's fast and secure browser",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.android.chrome"
                     },
                     {
                         "docid": "org.telegram.messenger",
@@ -1450,8 +1567,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.189082,
-                            "ratingsCount": "15011481"
+                            "starRating": 4.1579986,
+                            "ratingsCount": "15057910"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -1519,9 +1636,9 @@
                         ],
                         "details": {
                             "appDetails": {
-                                "versionCode": 12992010,
-                                "versionString": "1.299.2.1",
-                                "installationSize": "131352016",
+                                "versionCode": 13000020,
+                                "versionString": "1.300.0.2",
+                                "installationSize": "131216521",
                                 "permission": [
                                     "android.permission.ACCESS_ADSERVICES_AD_ID",
                                     "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
@@ -1543,12 +1660,12 @@
                                 ],
                                 "numDownloads": "1,000,000,000+ downloads",
                                 "packageName": "com.king.candycrushsaga",
-                                "uploadDate": "Mar 26, 2025",
+                                "uploadDate": "Apr 4, 2025",
                                 "file": [
                                     {
                                         "fileType": 0,
-                                        "versionCode": 12992010,
-                                        "size": "131352016"
+                                        "versionCode": 13000020,
+                                        "size": "131216521"
                                     }
                                 ],
                                 "unstable": true,
@@ -1556,7 +1673,7 @@
                                 "containsAds": "Contains ads",
                                 "dependencies": {
                                     "unknown1": 2,
-                                    "unknown2": "131352016",
+                                    "unknown2": "131216521",
                                     "dependency": [
                                         {
                                             "packageName": "com.google.android.gms",
@@ -1569,8 +1686,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.685296,
-                            "ratingsCount": "35947239"
+                            "starRating": 4.6862946,
+                            "ratingsCount": "35963480"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -1595,6 +1712,183 @@
                         "unknownCategoryContainer": {},
                         "descriptionShort": "Match 3 candies to blast sugar! Spread jam & master the sweetest of puzzle games",
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.king.candycrushsaga"
+                    },
+                    {
+                        "docid": "com.google.android.apps.tachyon",
+                        "backendDocid": "com.google.android.apps.tachyon",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Google Meet",
+                        "creator": "Google LLC",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": false,
+                                "offerType": 1,
+                                "message": "Buy"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": true
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/RpRaTKQ42fWn-GkVn7CnV-FA2fZdEU0VAMop0vLHMOyp2EypDSe3Y9-tLVR507mZdBc",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#FFFFFF"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#FFFFFF"
+                            },
+                            {
+                                "imageType": 16,
+                                "dimension": {
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/XJbOC9HQRvZ5896I7RNxJOFiNcb0Ob7YK5OltbBrqGv-85dEmx9vHgDRQxz51ROOmoMB",
+                                "supportsFifeUrlOptions": true
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 6065036,
+                                "versionString": "297.0.742352960.duo.android_20250316.25_p7",
+                                "installationSize": "127761589",
+                                "permission": [
+                                    "android.permission.ACCESS_NETWORK_STATE",
+                                    "android.permission.ACCESS_NOTIFICATION_POLICY",
+                                    "android.permission.ACCESS_WIFI_STATE",
+                                    "android.permission.AUTHENTICATE_ACCOUNTS",
+                                    "android.permission.BLUETOOTH",
+                                    "android.permission.BLUETOOTH_CONNECT",
+                                    "android.permission.BROADCAST_STICKY",
+                                    "android.permission.CALL_PHONE",
+                                    "android.permission.CAMERA",
+                                    "android.permission.CHANGE_NETWORK_STATE",
+                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.FOREGROUND_SERVICE_CAMERA",
+                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+                                    "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+                                    "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+                                    "android.permission.GET_ACCOUNTS",
+                                    "android.permission.GET_PACKAGE_SIZE",
+                                    "android.permission.INTERNET",
+                                    "android.permission.MANAGE_ACCOUNTS",
+                                    "android.permission.MANAGE_OWN_CALLS",
+                                    "android.permission.MODIFY_AUDIO_SETTINGS",
+                                    "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.READ_APP_BADGE",
+                                    "android.permission.READ_CONTACTS",
+                                    "android.permission.READ_PHONE_STATE",
+                                    "android.permission.READ_PROFILE",
+                                    "android.permission.READ_SYNC_STATS",
+                                    "android.permission.RECEIVE_BOOT_COMPLETED",
+                                    "android.permission.RECORD_AUDIO",
+                                    "android.permission.STATUS_BAR",
+                                    "android.permission.STOP_APP_SWITCHES",
+                                    "android.permission.SYSTEM_ALERT_WINDOW",
+                                    "android.permission.USE_FULL_SCREEN_INTENT",
+                                    "android.permission.VIBRATE",
+                                    "android.permission.WAKE_LOCK",
+                                    "android.permission.WRITE_CALL_LOG",
+                                    "android.permission.WRITE_CONTACTS",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "android.permission.WRITE_SYNC_SETTINGS",
+                                    "com.anddoes.launcher.permission.UPDATE_COUNT",
+                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
+                                    "com.google.android.apps.tachyon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "com.google.android.c2dm.permission.RECEIVE",
+                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
+                                    "com.htc.launcher.permission.READ_SETTINGS",
+                                    "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                                    "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                                    "com.huawei.android.launcher.permission.READ_SETTINGS",
+                                    "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                                    "com.majeur.launcher.permission.UPDATE_BADGE",
+                                    "com.oppo.launcher.permission.READ_SETTINGS",
+                                    "com.oppo.launcher.permission.WRITE_SETTINGS",
+                                    "com.samsung.android.app.telephonyui.permission.READ_SETTINGS_PROVIDER",
+                                    "com.samsung.android.app.telephonyui.permission.WRITE_SETTINGS_PROVIDER",
+                                    "com.samsung.android.aremoji.provider.permission.READ_STICKER_PROVIDER",
+                                    "com.samsung.android.livestickers.provider.permission.READ_STICKER_PROVIDER",
+                                    "com.samsung.android.mcfds.permission.AUTOSWITCH_EXTRA_CALL",
+                                    "com.samsung.android.provider.filterprovider.permission.READ_FILTER",
+                                    "com.samsung.android.provider.stickerprovider.permission.READ_STICKER_PROVIDER",
+                                    "com.sec.android.provider.badge.permission.READ",
+                                    "com.sec.android.provider.badge.permission.WRITE",
+                                    "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                                    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+                                ],
+                                "numDownloads": "10,000,000,000+ downloads",
+                                "packageName": "com.google.android.apps.tachyon",
+                                "uploadDate": "Mar 31, 2025",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 6065036,
+                                        "size": "127761589"
+                                    }
+                                ],
+                                "unstable": true,
+                                "dependencies": {
+                                    "unknown2": "127761589",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 251215000
+                                        }
+                                    ],
+                                    "unknown3": 35
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": false,
+                                    "subscribed1": false
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.2498703,
+                            "ratingsCount": "11080555"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "Everyone",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                                    "supportsFifeUrlOptions": true
+                                },
+                                "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.google.android.apps.tachyon",
+                        "detailsReusable": true,
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "High quality video calling for Android & iOS phones, tablets, Google Nest & web.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.google.android.apps.tachyon"
                     },
                     {
                         "docid": "com.google.android.apps.messaging",
@@ -1739,8 +2033,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.5957727,
-                            "ratingsCount": "22390833"
+                            "starRating": 4.596889,
+                            "ratingsCount": "22997662"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -1762,150 +2056,6 @@
                         "unknownCategoryContainer": {},
                         "descriptionShort": "Simple, helpful messaging by Google",
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.google.android.apps.messaging"
-                    },
-                    {
-                        "docid": "com.google.android.youtube",
-                        "backendDocid": "com.google.android.youtube",
-                        "docType": 1,
-                        "backendId": 3,
-                        "title": "YouTube",
-                        "creator": "Google LLC",
-                        "offer": [
-                            {
-                                "micros": "0",
-                                "currencyCode": "USD",
-                                "formattedAmount": "",
-                                "checkoutFlowRequired": false,
-                                "offerType": 1,
-                                "message": "Buy"
-                            }
-                        ],
-                        "availability": {
-                            "restriction": 1,
-                            "availableIfOwned": true
-                        },
-                        "image": [
-                            {
-                                "imageType": 2,
-                                "dimension": {
-                                    "width": 1024,
-                                    "height": 500
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/TPq0IuxKbhp7ff6oqDYQzzuvdoX-ZRilFToKMUcIqaZBKxryx-Squu-w6ori6QSp1Ey6",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#363636"
-                            },
-                            {
-                                "imageType": 4,
-                                "dimension": {
-                                    "width": 512,
-                                    "height": 512
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
-                            }
-                        ],
-                        "details": {
-                            "appDetails": {
-                                "versionCode": 1531305408,
-                                "versionString": "17.34.35",
-                                "installationSize": "140207702",
-                                "permission": [
-                                    "android.permission.ACCESS_COARSE_LOCATION",
-                                    "android.permission.ACCESS_FINE_LOCATION",
-                                    "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.CAMERA",
-                                    "android.permission.FOREGROUND_SERVICE",
-                                    "android.permission.GET_ACCOUNTS",
-                                    "android.permission.GET_PACKAGE_SIZE",
-                                    "android.permission.HIGH_SAMPLING_RATE_SENSORS",
-                                    "android.permission.INTERNET",
-                                    "android.permission.MANAGE_ACCOUNTS",
-                                    "android.permission.MANAGE_DOCUMENTS",
-                                    "android.permission.MODIFY_AUDIO_SETTINGS",
-                                    "android.permission.NFC",
-                                    "android.permission.POST_NOTIFICATIONS",
-                                    "android.permission.READ_CONTACTS",
-                                    "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.READ_MEDIA_IMAGES",
-                                    "android.permission.READ_MEDIA_VIDEO",
-                                    "android.permission.READ_PHONE_STATE",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
-                                    "android.permission.RECORD_AUDIO",
-                                    "android.permission.SYSTEM_ALERT_WINDOW",
-                                    "android.permission.USE_BIOMETRIC",
-                                    "android.permission.USE_CREDENTIALS",
-                                    "android.permission.USE_FINGERPRINT",
-                                    "android.permission.VIBRATE",
-                                    "android.permission.WAKE_LOCK",
-                                    "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "com.google.android.c2dm.permission.RECEIVE",
-                                    "com.google.android.gms.permission.AD_ID",
-                                    "com.google.android.gms.permission.AD_ID_NOTIFICATION",
-                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
-                                    "com.google.android.youtube.permission.C2D_MESSAGE",
-                                    "com.htc.launcher.permission.READ_SETTINGS",
-                                    "com.htc.launcher.permission.UPDATE_SHORTCUT",
-                                    "com.sec.android.provider.badge.permission.READ",
-                                    "com.sec.android.provider.badge.permission.WRITE",
-                                    "com.sonyericsson.home.permission.BROADCAST_BADGE",
-                                    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
-                                ],
-                                "numDownloads": "10,000,000,000+ downloads",
-                                "packageName": "com.google.android.youtube",
-                                "uploadDate": "Aug 25, 2022",
-                                "file": [
-                                    {
-                                        "fileType": 0,
-                                        "versionCode": 1531305408,
-                                        "size": "140207702"
-                                    }
-                                ],
-                                "unstable": true,
-                                "containsAds": "Contains ads",
-                                "dependencies": {
-                                    "unknown2": "140207702",
-                                    "dependency": [
-                                        {
-                                            "packageName": "com.google.android.gms",
-                                            "version": 223480000
-                                        }
-                                    ],
-                                    "unknown3": 33
-                                },
-                                "testingProgramInfo": {
-                                    "subscribed": false,
-                                    "subscribed1": false
-                                }
-                            }
-                        },
-                        "aggregateRating": {
-                            "type": 1,
-                            "starRating": 3.9361115,
-                            "ratingsCount": "150885594"
-                        },
-                        "relatedLinks": {
-                            "rated": {
-                                "label": "Teen",
-                                "image": {
-                                    "imageType": 6,
-                                    "dimension": {
-                                        "width": 512,
-                                        "height": 512
-                                    },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
-                                    "supportsFifeUrlOptions": true
-                                },
-                                "learnMoreHtmlLink": "Users Interact, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            }
-                        },
-                        "detailsUrl": "details?doc=com.google.android.youtube",
-                        "detailsReusable": true,
-                        "unknownCategoryContainer": {},
-                        "descriptionShort": "Enjoy your favorite videos and channels with the official YouTube app.",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.google.android.youtube"
                     },
                     {
                         "docid": "jp.naver.line.android",
@@ -2039,8 +2189,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.0671234,
-                            "ratingsCount": "13466186"
+                            "starRating": 4.053147,
+                            "ratingsCount": "13470419"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -2062,328 +2212,6 @@
                         "unknownCategoryContainer": {},
                         "descriptionShort": "Stay in touch with your friends and family using LINE!",
                         "reviewQuestionsUrl": "reviewQuestions?doc=jp.naver.line.android"
-                    },
-                    {
-                        "docid": "com.google.android.gm",
-                        "backendDocid": "com.google.android.gm",
-                        "docType": 1,
-                        "backendId": 3,
-                        "title": "Gmail",
-                        "creator": "Google LLC",
-                        "offer": [
-                            {
-                                "micros": "0",
-                                "currencyCode": "USD",
-                                "formattedAmount": "",
-                                "checkoutFlowRequired": false,
-                                "offerType": 1,
-                                "message": "Buy"
-                            }
-                        ],
-                        "availability": {
-                            "restriction": 1,
-                            "availableIfOwned": true
-                        },
-                        "image": [
-                            {
-                                "imageType": 2,
-                                "imageUrl": "https://play-lh.googleusercontent.com/bfpdXys_ABrZGPvu8M94gI9yGV7hvFFP11_-6bt6DSHlpowhdtCitbNrYoCECI3LCsE",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#BD3424"
-                            },
-                            {
-                                "imageType": 4,
-                                "dimension": {
-                                    "width": 512,
-                                    "height": 512
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
-                            }
-                        ],
-                        "details": {
-                            "appDetails": {
-                                "versionCode": 65029062,
-                                "versionString": "2025.03.16.738445112.Release",
-                                "installationSize": "167320238",
-                                "permission": [
-                                    "android.permission.ACCESS_ADSERVICES_AD_ID",
-                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-                                    "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_NOTIFICATION_POLICY",
-                                    "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.ANSWER_PHONE_CALLS",
-                                    "android.permission.AUTHENTICATE_ACCOUNTS",
-                                    "android.permission.BLUETOOTH",
-                                    "android.permission.CALL_PHONE",
-                                    "android.permission.CAMERA",
-                                    "android.permission.CHANGE_NETWORK_STATE",
-                                    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
-                                    "android.permission.FOREGROUND_SERVICE",
-                                    "android.permission.FOREGROUND_SERVICE_CAMERA",
-                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-                                    "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-                                    "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
-                                    "android.permission.GET_ACCOUNTS",
-                                    "android.permission.GET_PACKAGE_SIZE",
-                                    "android.permission.INTERNET",
-                                    "android.permission.MANAGE_ACCOUNTS",
-                                    "android.permission.MANAGE_OWN_CALLS",
-                                    "android.permission.MODIFY_AUDIO_SETTINGS",
-                                    "android.permission.POST_NOTIFICATIONS",
-                                    "android.permission.READ_CALENDAR",
-                                    "android.permission.READ_CONTACTS",
-                                    "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.READ_PHONE_STATE",
-                                    "android.permission.READ_PROFILE",
-                                    "android.permission.READ_SYNC_SETTINGS",
-                                    "android.permission.READ_SYNC_STATS",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
-                                    "android.permission.RECORD_AUDIO",
-                                    "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-                                    "android.permission.REQUEST_INSTALL_PACKAGES",
-                                    "android.permission.REQUEST_PASSWORD_COMPLEXITY",
-                                    "android.permission.SUBSCRIBED_FEEDS_READ",
-                                    "android.permission.SUBSCRIBED_FEEDS_WRITE",
-                                    "android.permission.USE_CREDENTIALS",
-                                    "android.permission.USE_FULL_SCREEN_INTENT",
-                                    "android.permission.VIBRATE",
-                                    "android.permission.WAKE_LOCK",
-                                    "android.permission.WRITE_CALENDAR",
-                                    "android.permission.WRITE_CONTACTS",
-                                    "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "android.permission.WRITE_SYNC_SETTINGS",
-                                    "com.android.email.partnerprovider.PARTNER_PROVIDER",
-                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
-                                    "com.android.vending.BILLING",
-                                    "com.google.android.apps.dynamite.permission.C2D_MESSAGE",
-                                    "com.google.android.c2dm.permission.RECEIVE",
-                                    "com.google.android.calendar.permission.READ_OOBE",
-                                    "com.google.android.email.permission.ACCESS_PROVIDER",
-                                    "com.google.android.gm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-                                    "com.google.android.gm.email.permission.ACCESS_PROVIDER",
-                                    "com.google.android.gm.email.permission.GET_WIDGET_UPDATE",
-                                    "com.google.android.gm.email.permission.READ_ATTACHMENT",
-                                    "com.google.android.gm.exchange.BIND",
-                                    "com.google.android.gm.permission.AUTO_SEND",
-                                    "com.google.android.gm.permission.BROADCAST_INTERNAL",
-                                    "com.google.android.gm.permission.READ_GMAIL",
-                                    "com.google.android.gm.permission.WRITE_GMAIL",
-                                    "com.google.android.gms.permission.AD_ID",
-                                    "com.google.android.gms.permission.REQUEST_SCREEN_LOCK_COMPLEXITY",
-                                    "com.google.android.googleapps.permission.GOOGLE_AUTH",
-                                    "com.google.android.googleapps.permission.GOOGLE_AUTH.mail",
-                                    "com.google.android.hangouts.START_HANGOUT",
-                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
-                                    "com.google.android.voicesearch.AUDIO_FILE_ACCESS"
-                                ],
-                                "numDownloads": "10,000,000,000+ downloads",
-                                "packageName": "com.google.android.gm",
-                                "uploadDate": "Mar 20, 2025",
-                                "file": [
-                                    {
-                                        "fileType": 0,
-                                        "versionCode": 65029062,
-                                        "size": "167320238"
-                                    }
-                                ],
-                                "unstable": true,
-                                "hasInstantLink": true,
-                                "containsAds": "Contains ads",
-                                "dependencies": {
-                                    "unknown2": "167320238",
-                                    "dependency": [
-                                        {
-                                            "packageName": "com.google.android.gms",
-                                            "version": 251215000
-                                        }
-                                    ],
-                                    "unknown3": 35
-                                }
-                            }
-                        },
-                        "aggregateRating": {
-                            "type": 1,
-                            "starRating": 4.2828093,
-                            "ratingsCount": "13068345"
-                        },
-                        "relatedLinks": {
-                            "rated": {
-                                "label": "Everyone",
-                                "image": {
-                                    "imageType": 6,
-                                    "dimension": {
-                                        "width": 512,
-                                        "height": 512
-                                    },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
-                                    "supportsFifeUrlOptions": true
-                                },
-                                "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            }
-                        },
-                        "detailsUrl": "details?doc=com.google.android.gm",
-                        "detailsReusable": true,
-                        "unknownCategoryContainer": {},
-                        "descriptionShort": "Connect, create, and collaborate with Gmail, part of Google Workspace.",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.google.android.gm"
-                    },
-                    {
-                        "docid": "com.android.chrome",
-                        "backendDocid": "com.android.chrome",
-                        "docType": 1,
-                        "backendId": 3,
-                        "title": "Google Chrome",
-                        "creator": "Google LLC",
-                        "offer": [
-                            {
-                                "micros": "0",
-                                "currencyCode": "USD",
-                                "formattedAmount": "",
-                                "checkoutFlowRequired": false,
-                                "offerType": 1,
-                                "message": "Buy"
-                            }
-                        ],
-                        "availability": {
-                            "restriction": 1,
-                            "availableIfOwned": true
-                        },
-                        "image": [
-                            {
-                                "imageType": 2,
-                                "dimension": {
-                                    "width": 1024,
-                                    "height": 500
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/yZPtmF--wo_V78QRe00YWjnHBnTISZZJeSo4WbSsJpFBRI1MNsv6sN1UxRBIK6mbtQ",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#E8E9E9"
-                            },
-                            {
-                                "imageType": 4,
-                                "dimension": {
-                                    "width": 512,
-                                    "height": 512
-                                },
-                                "imageUrl": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
-                            }
-                        ],
-                        "details": {
-                            "appDetails": {
-                                "versionCode": 604519320,
-                                "versionString": "119.0.6045.193",
-                                "installationSize": "138193677",
-                                "permission": [
-                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-                                    "android.permission.ACCESS_COARSE_LOCATION",
-                                    "android.permission.ACCESS_FINE_LOCATION",
-                                    "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.BLUETOOTH",
-                                    "android.permission.BLUETOOTH_ADMIN",
-                                    "android.permission.BLUETOOTH_ADVERTISE",
-                                    "android.permission.BLUETOOTH_CONNECT",
-                                    "android.permission.BLUETOOTH_SCAN",
-                                    "android.permission.CAMERA",
-                                    "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS",
-                                    "android.permission.CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERS",
-                                    "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
-                                    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
-                                    "android.permission.FOREGROUND_SERVICE",
-                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-                                    "android.permission.GET_ACCOUNTS",
-                                    "android.permission.INTERNET",
-                                    "android.permission.MANAGE_ACCOUNTS",
-                                    "android.permission.MODIFY_AUDIO_SETTINGS",
-                                    "android.permission.NFC",
-                                    "android.permission.POST_NOTIFICATIONS",
-                                    "android.permission.QUERY_ALL_PACKAGES",
-                                    "android.permission.READ_CONTACTS",
-                                    "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.READ_MEDIA_AUDIO",
-                                    "android.permission.READ_MEDIA_IMAGES",
-                                    "android.permission.READ_MEDIA_VIDEO",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
-                                    "android.permission.RECORD_AUDIO",
-                                    "android.permission.REORDER_TASKS",
-                                    "android.permission.REQUEST_INSTALL_PACKAGES",
-                                    "android.permission.RUN_USER_INITIATED_JOBS",
-                                    "android.permission.USE_BIOMETRIC",
-                                    "android.permission.USE_CREDENTIALS",
-                                    "android.permission.USE_FINGERPRINT",
-                                    "android.permission.VIBRATE",
-                                    "android.permission.WAKE_LOCK",
-                                    "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "com.android.chrome.TOS_ACKED",
-                                    "com.android.chrome.permission.C2D_MESSAGE",
-                                    "com.android.chrome.permission.READ_WRITE_BOOKMARK_FOLDERS",
-                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
-                                    "com.chrome.permission.DEVICE_EXTRAS",
-                                    "com.google.android.apps.now.CURRENT_ACCOUNT_ACCESS",
-                                    "com.google.android.c2dm.permission.RECEIVE",
-                                    "com.google.android.googlequicksearchbox.permission.LENS_SERVICE",
-                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
-                                    "com.sec.enterprise.knox.MDM_CONTENT_PROVIDER"
-                                ],
-                                "numDownloads": "10,000,000,000+ downloads",
-                                "packageName": "com.android.chrome",
-                                "uploadDate": "Nov 28, 2023",
-                                "file": [
-                                    {
-                                        "fileType": 0,
-                                        "versionCode": 604519320,
-                                        "size": "138193677"
-                                    }
-                                ],
-                                "unstable": true,
-                                "dependencies": {
-                                    "unknown2": "138193677",
-                                    "dependency": [
-                                        {
-                                            "packageName": "com.google.android.gms",
-                                            "version": 234006000
-                                        },
-                                        {
-                                            "packageName": "com.google.ar.core",
-                                            "version": 221020000
-                                        }
-                                    ],
-                                    "unknown3": 34
-                                }
-                            }
-                        },
-                        "aggregateRating": {
-                            "type": 1,
-                            "starRating": 4.100893,
-                            "ratingsCount": "44785780"
-                        },
-                        "relatedLinks": {
-                            "rated": {
-                                "label": "Everyone",
-                                "image": {
-                                    "imageType": 6,
-                                    "dimension": {
-                                        "width": 512,
-                                        "height": 512
-                                    },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
-                                    "supportsFifeUrlOptions": true
-                                },
-                                "learnMoreHtmlLink": "Unrestricted Internet<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            }
-                        },
-                        "detailsUrl": "details?doc=com.android.chrome",
-                        "detailsReusable": true,
-                        "unknownCategoryContainer": {},
-                        "descriptionShort": "Google's fast and secure browser",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.android.chrome"
                     },
                     {
                         "docid": "com.google.android.apps.photos",
@@ -2430,9 +2258,9 @@
                         ],
                         "details": {
                             "appDetails": {
-                                "versionCode": 49864701,
-                                "versionString": "7.21.0.737764319",
-                                "installationSize": "100103349",
+                                "versionCode": 49922131,
+                                "versionString": "7.23.0.744788288",
+                                "installationSize": "100828167",
                                 "permission": [
                                     "android.permission.ACCESS_COARSE_LOCATION",
                                     "android.permission.ACCESS_FINE_LOCATION",
@@ -2490,23 +2318,23 @@
                                 ],
                                 "numDownloads": "10,000,000,000+ downloads",
                                 "packageName": "com.google.android.apps.photos",
-                                "uploadDate": "Mar 17, 2025",
+                                "uploadDate": "Apr 7, 2025",
                                 "file": [
                                     {
                                         "fileType": 0,
-                                        "versionCode": 49864701,
-                                        "size": "100103349"
+                                        "versionCode": 49922131,
+                                        "size": "100828167"
                                     }
                                 ],
                                 "unstable": true,
                                 "hasInstantLink": true,
                                 "dependencies": {
                                     "unknown1": 2,
-                                    "unknown2": "100103349",
+                                    "unknown2": "100828167",
                                     "dependency": [
                                         {
                                             "packageName": "com.google.android.gms",
-                                            "version": 251225000
+                                            "version": 251425000
                                         }
                                     ],
                                     "unknown3": 35
@@ -2515,8 +2343,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.5515504,
-                            "ratingsCount": "50128459"
+                            "starRating": 4.5515275,
+                            "ratingsCount": "50204700"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -2540,12 +2368,12 @@
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.google.android.apps.photos"
                     },
                     {
-                        "docid": "com.dts.freefireth",
-                        "backendDocid": "com.dts.freefireth",
+                        "docid": "com.opera.mini.native",
+                        "backendDocid": "com.opera.mini.native",
                         "docType": 1,
                         "backendId": 3,
-                        "title": "Free Fire",
-                        "creator": "Garena International I",
+                        "title": "Opera Mini: Fast Web Browser",
+                        "creator": "Opera",
                         "offer": [
                             {
                                 "micros": "0",
@@ -2567,9 +2395,9 @@
                                     "width": 1024,
                                     "height": 500
                                 },
-                                "imageUrl": "https://play-lh.googleusercontent.com/uHV4VKtO6eD57CR-8TeSPrWfkc-uNkMeMuGyt7mt83OKw3JZA-KliT5a6oKSxehGZEh-",
+                                "imageUrl": "https://play-lh.googleusercontent.com/ol6cCFSlu4EKw3dTZ6mrs--aPJVMi7sVeGeo5Hf1nJ5J6uvhlHZw8mgezDi9xmiaTX0",
                                 "supportsFifeUrlOptions": true,
-                                "color": "#88A4C3"
+                                "color": "#F7F7F7"
                             },
                             {
                                 "imageType": 4,
@@ -2577,76 +2405,78 @@
                                     "width": 512,
                                     "height": 512
                                 },
-                                "imageUrl": "https://play-lh.googleusercontent.com/6llpraFcTI0rEUuRpWEG9NWWblvm106y5JXcDzu60ACuaUYDD3i70a-p9_QM65NsGDE",
+                                "imageUrl": "https://play-lh.googleusercontent.com/OMqej9WONG1l8CXOgFH58XV1cGRgTcJxeffDiEXmkjkfLPK-g680lkzXGhJ7VMTmII4",
                                 "supportsFifeUrlOptions": true,
-                                "color": "#050D3A"
+                                "color": "#EE1B2A"
                             }
                         ],
                         "details": {
                             "appDetails": {
-                                "versionCode": 2019118071,
-                                "versionString": "1.109.1",
-                                "installationSize": "409573450",
+                                "versionCode": 908076931,
+                                "versionString": "90.0.2254.76931",
+                                "installationSize": "50103495",
                                 "permission": [
                                     "android.permission.ACCESS_ADSERVICES_AD_ID",
                                     "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+                                    "android.permission.ACCESS_COARSE_LOCATION",
                                     "android.permission.ACCESS_NETWORK_STATE",
                                     "android.permission.ACCESS_WIFI_STATE",
                                     "android.permission.AUTHENTICATE_ACCOUNTS",
-                                    "android.permission.BLUETOOTH",
-                                    "android.permission.BLUETOOTH_CONNECT",
-                                    "android.permission.CHANGE_NETWORK_STATE",
+                                    "android.permission.CAMERA",
+                                    "android.permission.FLASHLIGHT",
                                     "android.permission.FOREGROUND_SERVICE",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+                                    "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
                                     "android.permission.INTERNET",
-                                    "android.permission.MANAGE_ACCOUNTS",
                                     "android.permission.MODIFY_AUDIO_SETTINGS",
+                                    "android.permission.NFC",
                                     "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.QUERY_ALL_PACKAGES",
+                                    "android.permission.READ_CONTACTS",
                                     "android.permission.READ_EXTERNAL_STORAGE",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
+                                    "android.permission.READ_PHONE_STATE",
+                                    "android.permission.READ_SYNC_SETTINGS",
                                     "android.permission.RECORD_AUDIO",
-                                    "android.permission.USE_CREDENTIALS",
+                                    "android.permission.REQUEST_INSTALL_PACKAGES",
+                                    "android.permission.SYSTEM_ALERT_WINDOW",
+                                    "android.permission.USE_BIOMETRIC",
+                                    "android.permission.USE_FINGERPRINT",
                                     "android.permission.VIBRATE",
                                     "android.permission.WAKE_LOCK",
                                     "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "com.android.vending.BILLING",
-                                    "com.android.vending.CHECK_LICENSE",
-                                    "com.dts.freefireth.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-                                    "com.dts.freefireth.permission.C2D_MESSAGE",
+                                    "android.permission.WRITE_SYNC_SETTINGS",
+                                    "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
                                     "com.google.android.c2dm.permission.RECEIVE",
                                     "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
                                     "com.google.android.gms.permission.AD_ID",
-                                    "com.samsung.android.mapsagent.permission.READ_APP_INFO",
-                                    "com.seagroup.spark.sdk"
+                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
+                                    "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+                                    "com.opera.GET_BRANDING",
+                                    "com.opera.mini.native.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "com.opera.mini.native.permission.C2D_MESSAGE",
+                                    "com.samsung.android.mapsagent.permission.READ_APP_INFO"
                                 ],
-                                "numDownloads": "1,000,000,000+ downloads",
-                                "packageName": "com.dts.freefireth",
-                                "uploadDate": "Feb 19, 2025",
+                                "numDownloads": "500,000,000+ downloads",
+                                "packageName": "com.opera.mini.native",
+                                "uploadDate": "Mar 31, 2025",
                                 "file": [
                                     {
                                         "fileType": 0,
-                                        "versionCode": 2019118071,
-                                        "size": "84583559"
-                                    },
-                                    {
-                                        "fileType": 1,
-                                        "versionCode": 2019118071,
-                                        "size": "324989891"
+                                        "versionCode": 908076931,
+                                        "size": "50103495"
                                     }
                                 ],
                                 "unstable": true,
-                                "hasInstantLink": true,
+                                "containsAds": "Contains ads",
                                 "dependencies": {
-                                    "unknown1": 3,
-                                    "unknown2": "84583559",
+                                    "unknown1": 2,
+                                    "unknown2": "50103495",
                                     "dependency": [
                                         {
                                             "packageName": "com.google.android.gms",
                                             "version": 12451000
-                                        },
-                                        {
-                                            "packageName": "com.google.android.play.games",
-                                            "version": 0
                                         }
                                     ],
                                     "unknown3": 34
@@ -2655,32 +2485,344 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.1719127,
-                            "ratingsCount": "118041916"
+                            "starRating": 4.663765,
+                            "ratingsCount": "9284828"
                         },
                         "relatedLinks": {
                             "rated": {
-                                "label": "Mature 17+",
+                                "label": "Everyone",
                                 "image": {
                                     "imageType": 6,
                                     "dimension": {
                                         "width": 512,
                                         "height": 512
                                     },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/YX4IU7qLML-be7Xl25J-YkRBNgSZhVhJIsxeLdke3SaX1QBSFEKLbdcWORAwahq0oI4rrjz5YnWiVdb5",
+                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
                                     "supportsFifeUrlOptions": true
                                 },
-                                "learnMoreHtmlLink": "Blood, Violence<br/>Users Interact, In-Game Purchases (Includes Random Items)<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
-                            },
-                            "categoryInfo": {
-                                "appType": "GAME"
+                                "learnMoreHtmlLink": "Users Interact, Unrestricted Internet<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
                             }
                         },
-                        "detailsUrl": "details?doc=com.dts.freefireth",
+                        "detailsUrl": "details?doc=com.opera.mini.native",
                         "detailsReusable": true,
                         "unknownCategoryContainer": {},
-                        "descriptionShort": "10-minute Survival Shooter!",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.dts.freefireth"
+                        "descriptionShort": "Browse fast on Opera Mini, with Data Saving, News, Football Scores, and Download",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.opera.mini.native"
+                    },
+                    {
+                        "docid": "com.imo.android.imoim",
+                        "backendDocid": "com.imo.android.imoim",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "imo-International Calls & Chat",
+                        "creator": "imo.im",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": false,
+                                "offerType": 1,
+                                "message": "Buy"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": true
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/9T3EIiVRyvqMRnuHEFvPtHNRfcXj4WBVDpnSN5qj0t3-fSZhZaNj9ZHx55jLj3yXgGw",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#FEFEFE"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/0IdG4GLN7T73OrfRWwb3M1dyuFPmuAftPepnHS6p8qoTGvXXeHKHQY54-B8OXEbAZGI",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#FEFFFF"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 25021091,
+                                "versionString": "2025.02.1091",
+                                "installationSize": "103376390",
+                                "permission": [
+                                    "android.permission.ACCESS_BACKGROUND_LOCATION",
+                                    "android.permission.ACCESS_COARSE_LOCATION",
+                                    "android.permission.ACCESS_FINE_LOCATION",
+                                    "android.permission.ACCESS_NETWORK_STATE",
+                                    "android.permission.ACCESS_WIFI_STATE",
+                                    "android.permission.ANSWER_PHONE_CALLS",
+                                    "android.permission.BLUETOOTH",
+                                    "android.permission.BLUETOOTH_ADVERTISE",
+                                    "android.permission.BLUETOOTH_CONNECT",
+                                    "android.permission.BLUETOOTH_SCAN",
+                                    "android.permission.BROADCAST_STICKY",
+                                    "android.permission.CALL_PHONE",
+                                    "android.permission.CAMERA",
+                                    "android.permission.CHANGE_NETWORK_STATE",
+                                    "android.permission.CHANGE_WIFI_STATE",
+                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.FOREGROUND_SERVICE_CAMERA",
+                                    "android.permission.FOREGROUND_SERVICE_LOCATION",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+                                    "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+                                    "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+                                    "android.permission.GET_ACCOUNTS",
+                                    "android.permission.GET_PACKAGE_SIZE",
+                                    "android.permission.INTERNET",
+                                    "android.permission.MODIFY_AUDIO_SETTINGS",
+                                    "android.permission.NFC",
+                                    "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.READ_APP_BADGE",
+                                    "android.permission.READ_CALENDAR",
+                                    "android.permission.READ_CALL_LOG",
+                                    "android.permission.READ_CONTACTS",
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_AUDIO",
+                                    "android.permission.READ_MEDIA_IMAGES",
+                                    "android.permission.READ_MEDIA_VIDEO",
+                                    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+                                    "android.permission.READ_PHONE_NUMBERS",
+                                    "android.permission.READ_PHONE_STATE",
+                                    "android.permission.READ_PROFILE",
+                                    "android.permission.READ_SYNC_SETTINGS",
+                                    "android.permission.RECEIVE_BOOT_COMPLETED",
+                                    "android.permission.RECORD_AUDIO",
+                                    "android.permission.REORDER_TASKS",
+                                    "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+                                    "android.permission.REQUEST_INSTALL_PACKAGES",
+                                    "android.permission.SCHEDULE_EXACT_ALARM",
+                                    "android.permission.SYSTEM_ALERT_WINDOW",
+                                    "android.permission.USE_FINGERPRINT",
+                                    "android.permission.USE_FULL_SCREEN_INTENT",
+                                    "android.permission.VIBRATE",
+                                    "android.permission.WAKE_LOCK",
+                                    "android.permission.WRITE_CALENDAR",
+                                    "android.permission.WRITE_CONTACTS",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "android.permission.WRITE_SYNC_SETTINGS",
+                                    "com.anddoes.launcher.permission.UPDATE_COUNT",
+                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
+                                    "com.android.vending.BILLING",
+                                    "com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE",
+                                    "com.google.android.c2dm.permission.RECEIVE",
+                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                                    "com.google.android.gms.permission.AD_ID",
+                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
+                                    "com.htc.launcher.permission.READ_SETTINGS",
+                                    "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                                    "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                                    "com.huawei.android.launcher.permission.READ_SETTINGS",
+                                    "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                                    "com.imo.android.imoim.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "com.imo.android.imoim.permission.PERMISSION_SAFE_BROADCAST",
+                                    "com.majeur.launcher.permission.UPDATE_BADGE",
+                                    "com.oppo.launcher.permission.READ_SETTINGS",
+                                    "com.oppo.launcher.permission.WRITE_SETTINGS",
+                                    "com.sec.android.provider.badge.permission.READ",
+                                    "com.sec.android.provider.badge.permission.WRITE",
+                                    "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                                    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+                                    "com.vivo.notification.permission.BADGE_ICON",
+                                    "me.everything.badger.permission.BADGE_COUNT_READ",
+                                    "me.everything.badger.permission.BADGE_COUNT_WRITE",
+                                    "sg.bigo.live.permission.Bepulled",
+                                    "video.like.lockscreen.read",
+                                    "video.like.permission.Bepulled"
+                                ],
+                                "numDownloads": "1,000,000,000+ downloads",
+                                "packageName": "com.imo.android.imoim",
+                                "uploadDate": "Mar 12, 2025",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 25021091,
+                                        "size": "103376390"
+                                    }
+                                ],
+                                "unstable": true,
+                                "hasInstantLink": true,
+                                "containsAds": "Contains ads",
+                                "dependencies": {
+                                    "unknown1": 1,
+                                    "unknown2": "103376390",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000
+                                        }
+                                    ],
+                                    "unknown3": 34
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.1776857,
+                            "ratingsCount": "8569566"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "Everyone",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                                    "supportsFifeUrlOptions": true
+                                },
+                                "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.imo.android.imoim",
+                        "detailsReusable": true,
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Global call- Secure,simple,stable chat app & SMS messaging app",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.imo.android.imoim"
+                    },
+                    {
+                        "docid": "com.google.android.apps.youtube.music",
+                        "backendDocid": "com.google.android.apps.youtube.music",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "YouTube Music",
+                        "creator": "Google LLC",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": false,
+                                "offerType": 1,
+                                "message": "Buy"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": true
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/9GBIpzQ-hefe9tpn0WCuWTqZ-YpHxG6XXbQZgWZyCI21W0Iy68zKYpjv8eqBxRZykQ",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#202020"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/zD8UA5CRdiPzbvTwGKtzR4KjQpxqEK6X0tGDpzEaOo0xPEvG6HUiC_0qkpTfzpuMTqU",
+                                "supportsFifeUrlOptions": true,
+                                "color": "#FFFFFF"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 64252230,
+                                "versionString": "6.42.52",
+                                "installationSize": "40154426",
+                                "permission": [
+                                    "android.permission.ACCESS_NETWORK_STATE",
+                                    "android.permission.ACCESS_WIFI_STATE",
+                                    "android.permission.BLUETOOTH",
+                                    "android.permission.BLUETOOTH_ADMIN",
+                                    "android.permission.BLUETOOTH_ADVERTISE",
+                                    "android.permission.BLUETOOTH_CONNECT",
+                                    "android.permission.BLUETOOTH_SCAN",
+                                    "android.permission.FOREGROUND_SERVICE",
+                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+                                    "android.permission.INTERNET",
+                                    "android.permission.NFC",
+                                    "android.permission.POST_NOTIFICATIONS",
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_AUDIO",
+                                    "android.permission.RECEIVE_BOOT_COMPLETED",
+                                    "android.permission.RECORD_AUDIO",
+                                    "android.permission.REQUEST_COMPANION_START_FOREGROUND_SERVICES_FROM_BACKGROUND",
+                                    "android.permission.RUN_USER_INITIATED_JOBS",
+                                    "android.permission.SYSTEM_ALERT_WINDOW",
+                                    "android.permission.VIBRATE",
+                                    "android.permission.WAKE_LOCK",
+                                    "android.permission.WRITE_EXTERNAL_STORAGE",
+                                    "com.android.vending.BILLING",
+                                    "com.google.android.apps.youtube.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "com.google.android.c2dm.permission.RECEIVE",
+                                    "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+                                    "com.google.android.gms.permission.AD_ID",
+                                    "com.google.android.providers.gsf.permission.READ_GSERVICES"
+                                ],
+                                "numDownloads": "5,000,000,000+ downloads",
+                                "packageName": "com.google.android.apps.youtube.music",
+                                "uploadDate": "Feb 29, 2024",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 64252230,
+                                        "size": "40154426"
+                                    }
+                                ],
+                                "unstable": true,
+                                "hasInstantLink": true,
+                                "containsAds": "Contains ads",
+                                "dependencies": {
+                                    "unknown2": "40154426",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 240999000
+                                        }
+                                    ],
+                                    "unknown3": 34
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.453955,
+                            "ratingsCount": "6116257"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "Teen",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 512
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                                    "supportsFifeUrlOptions": true
+                                },
+                                "learnMoreHtmlLink": "Users Interact, Digital Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.google.android.apps.youtube.music",
+                        "detailsReusable": true,
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "The world of music dedicated to you",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.google.android.apps.youtube.music"
                     },
                     {
                         "docid": "com.moonactive.coinmaster",
@@ -2727,9 +2869,9 @@
                         ],
                         "details": {
                             "appDetails": {
-                                "versionCode": 2286071,
-                                "versionString": "3.5.2024",
-                                "installationSize": "93304952",
+                                "versionCode": 2287019,
+                                "versionString": "3.5.2026",
+                                "installationSize": "96162431",
                                 "permission": [
                                     "android.permission.ACCESS_ADSERVICES_AD_ID",
                                     "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
@@ -2757,12 +2899,12 @@
                                 ],
                                 "numDownloads": "100,000,000+ downloads",
                                 "packageName": "com.moonactive.coinmaster",
-                                "uploadDate": "Mar 31, 2025",
+                                "uploadDate": "Apr 4, 2025",
                                 "file": [
                                     {
                                         "fileType": 0,
-                                        "versionCode": 2286071,
-                                        "size": "93304952"
+                                        "versionCode": 2287019,
+                                        "size": "96162431"
                                     }
                                 ],
                                 "unstable": true,
@@ -2770,7 +2912,7 @@
                                 "containsAds": "Contains ads",
                                 "dependencies": {
                                     "unknown1": 3,
-                                    "unknown2": "93304952",
+                                    "unknown2": "96162431",
                                     "dependency": [
                                         {
                                             "packageName": "com.google.android.gms",
@@ -2787,8 +2929,8 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.6859574,
-                            "ratingsCount": "9702989"
+                            "starRating": 4.6867757,
+                            "ratingsCount": "9715753"
                         },
                         "relatedLinks": {
                             "rated": {
@@ -2815,12 +2957,12 @@
                         "reviewQuestionsUrl": "reviewQuestions?doc=com.moonactive.coinmaster"
                     },
                     {
-                        "docid": "com.google.android.apps.tachyon",
-                        "backendDocid": "com.google.android.apps.tachyon",
+                        "docid": "com.audiomack",
+                        "backendDocid": "com.audiomack",
                         "docType": 1,
                         "backendId": 3,
-                        "title": "Google Meet",
-                        "creator": "Google LLC",
+                        "title": "Audiomack: Music Downloader",
+                        "creator": "Audiomack Music Apps",
                         "offer": [
                             {
                                 "micros": "0",
@@ -2842,122 +2984,84 @@
                                     "width": 1024,
                                     "height": 500
                                 },
-                                "imageUrl": "https://play-lh.googleusercontent.com/RpRaTKQ42fWn-GkVn7CnV-FA2fZdEU0VAMop0vLHMOyp2EypDSe3Y9-tLVR507mZdBc",
+                                "imageUrl": "https://play-lh.googleusercontent.com/3ZReyV1I-6cSF0mz4xADb-4slg4TNTVALc7BCg2NoJ4yqcexSmxiqeBE5Cg-y3d8xg",
                                 "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
+                                "color": "#171616"
                             },
                             {
                                 "imageType": 4,
                                 "dimension": {
-                                    "width": 512,
-                                    "height": 512
+                                    "width": 0,
+                                    "height": 0
                                 },
-                                "imageUrl": "https://play-lh.googleusercontent.com/6wvcwcC_v4bBwA7K1eDoKw_PDtvdpHwhKAisZftnoY_Jn94Rjh7u7YSV0IEn9uZM2A",
-                                "supportsFifeUrlOptions": true,
-                                "color": "#FFFFFF"
+                                "imageUrl": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv",
+                                "supportsFifeUrlOptions": true
                             },
                             {
                                 "imageType": 16,
                                 "dimension": {
-                                    "width": 1280,
-                                    "height": 720
+                                    "width": 0,
+                                    "height": 0
                                 },
-                                "imageUrl": "https://play-lh.googleusercontent.com/XJbOC9HQRvZ5896I7RNxJOFiNcb0Ob7YK5OltbBrqGv-85dEmx9vHgDRQxz51ROOmoMB",
+                                "imageUrl": "https://play-lh.googleusercontent.com/zrbi1_5MFgpdirKcg7XuagRN2KV72jdU0r21YS_IxQph7EKqdBt6n3PqFnHaZpdENpA",
                                 "supportsFifeUrlOptions": true
                             }
                         ],
                         "details": {
                             "appDetails": {
-                                "versionCode": 6044060,
-                                "versionString": "296.0.735184395.duo.android_20250309.13_p0",
-                                "installationSize": "127737298",
+                                "versionCode": 28914,
+                                "versionString": "6.59.1",
+                                "installationSize": "49947597",
                                 "permission": [
+                                    "android.permission.ACCESS_ADSERVICES_AD_ID",
+                                    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+                                    "android.permission.ACCESS_ADSERVICES_CUSTOM_AUDIENCE",
+                                    "android.permission.ACCESS_ADSERVICES_TOPICS",
                                     "android.permission.ACCESS_NETWORK_STATE",
-                                    "android.permission.ACCESS_NOTIFICATION_POLICY",
                                     "android.permission.ACCESS_WIFI_STATE",
-                                    "android.permission.AUTHENTICATE_ACCOUNTS",
-                                    "android.permission.BLUETOOTH",
-                                    "android.permission.BLUETOOTH_CONNECT",
-                                    "android.permission.BROADCAST_STICKY",
-                                    "android.permission.CALL_PHONE",
-                                    "android.permission.CAMERA",
-                                    "android.permission.CHANGE_NETWORK_STATE",
+                                    "android.permission.AD_SERVICES_CONFIG",
+                                    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
                                     "android.permission.FOREGROUND_SERVICE",
-                                    "android.permission.FOREGROUND_SERVICE_CAMERA",
-                                    "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
                                     "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-                                    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-                                    "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-                                    "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
-                                    "android.permission.GET_ACCOUNTS",
-                                    "android.permission.GET_PACKAGE_SIZE",
                                     "android.permission.INTERNET",
-                                    "android.permission.MANAGE_ACCOUNTS",
-                                    "android.permission.MANAGE_OWN_CALLS",
-                                    "android.permission.MODIFY_AUDIO_SETTINGS",
                                     "android.permission.POST_NOTIFICATIONS",
-                                    "android.permission.READ_APP_BADGE",
-                                    "android.permission.READ_CONTACTS",
-                                    "android.permission.READ_PHONE_STATE",
-                                    "android.permission.READ_PROFILE",
-                                    "android.permission.READ_SYNC_STATS",
-                                    "android.permission.RECEIVE_BOOT_COMPLETED",
-                                    "android.permission.RECORD_AUDIO",
-                                    "android.permission.STATUS_BAR",
-                                    "android.permission.STOP_APP_SWITCHES",
-                                    "android.permission.SYSTEM_ALERT_WINDOW",
-                                    "android.permission.USE_FULL_SCREEN_INTENT",
+                                    "android.permission.READ_EXTERNAL_STORAGE",
+                                    "android.permission.READ_MEDIA_AUDIO",
+                                    "android.permission.USE_BIOMETRIC",
+                                    "android.permission.USE_FINGERPRINT",
                                     "android.permission.VIBRATE",
                                     "android.permission.WAKE_LOCK",
-                                    "android.permission.WRITE_CALL_LOG",
-                                    "android.permission.WRITE_CONTACTS",
                                     "android.permission.WRITE_EXTERNAL_STORAGE",
-                                    "android.permission.WRITE_SYNC_SETTINGS",
-                                    "com.anddoes.launcher.permission.UPDATE_COUNT",
-                                    "com.android.launcher.permission.INSTALL_SHORTCUT",
-                                    "com.google.android.apps.tachyon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+                                    "com.android.vending.BILLING",
+                                    "com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE",
+                                    "com.audiomack.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
                                     "com.google.android.c2dm.permission.RECEIVE",
-                                    "com.google.android.providers.gsf.permission.READ_GSERVICES",
-                                    "com.htc.launcher.permission.READ_SETTINGS",
-                                    "com.htc.launcher.permission.UPDATE_SHORTCUT",
-                                    "com.huawei.android.launcher.permission.CHANGE_BADGE",
-                                    "com.huawei.android.launcher.permission.READ_SETTINGS",
-                                    "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-                                    "com.majeur.launcher.permission.UPDATE_BADGE",
-                                    "com.oppo.launcher.permission.READ_SETTINGS",
-                                    "com.oppo.launcher.permission.WRITE_SETTINGS",
-                                    "com.samsung.android.app.telephonyui.permission.READ_SETTINGS_PROVIDER",
-                                    "com.samsung.android.app.telephonyui.permission.WRITE_SETTINGS_PROVIDER",
-                                    "com.samsung.android.aremoji.provider.permission.READ_STICKER_PROVIDER",
-                                    "com.samsung.android.livestickers.provider.permission.READ_STICKER_PROVIDER",
-                                    "com.samsung.android.mcfds.permission.AUTOSWITCH_EXTRA_CALL",
-                                    "com.samsung.android.provider.filterprovider.permission.READ_FILTER",
-                                    "com.samsung.android.provider.stickerprovider.permission.READ_STICKER_PROVIDER",
-                                    "com.sec.android.provider.badge.permission.READ",
-                                    "com.sec.android.provider.badge.permission.WRITE",
-                                    "com.sonyericsson.home.permission.BROADCAST_BADGE",
-                                    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+                                    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                                    "com.google.android.gms.permission.AD_ID"
                                 ],
-                                "numDownloads": "5,000,000,000+ downloads",
-                                "packageName": "com.google.android.apps.tachyon",
-                                "uploadDate": "Mar 11, 2025",
+                                "numDownloads": "100,000,000+ downloads",
+                                "packageName": "com.audiomack",
+                                "uploadDate": "Apr 3, 2025",
                                 "file": [
                                     {
                                         "fileType": 0,
-                                        "versionCode": 6044060,
-                                        "size": "127737298"
+                                        "versionCode": 28914,
+                                        "size": "49947597"
                                     }
                                 ],
                                 "unstable": true,
+                                "hasInstantLink": true,
+                                "containsAds": "Contains ads",
                                 "dependencies": {
-                                    "unknown2": "127737298",
+                                    "unknown1": 2,
+                                    "unknown2": "49947597",
                                     "dependency": [
                                         {
                                             "packageName": "com.google.android.gms",
-                                            "version": 251120000
+                                            "version": 12451000
                                         }
                                     ],
-                                    "unknown3": 35
+                                    "unknown3": 34
                                 },
                                 "testingProgramInfo": {
                                     "subscribed": false,
@@ -2967,33 +3071,33 @@
                         },
                         "aggregateRating": {
                             "type": 1,
-                            "starRating": 4.2432714,
-                            "ratingsCount": "11064784"
+                            "starRating": 4.773651,
+                            "ratingsCount": "6021291"
                         },
                         "relatedLinks": {
                             "rated": {
-                                "label": "Everyone",
+                                "label": "Teen",
                                 "image": {
                                     "imageType": 6,
                                     "dimension": {
                                         "width": 512,
                                         "height": 512
                                     },
-                                    "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                                    "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
                                     "supportsFifeUrlOptions": true
                                 },
-                                "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+                                "learnMoreHtmlLink": "Diverse Content: Discretion Advised<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
                             }
                         },
-                        "detailsUrl": "details?doc=com.google.android.apps.tachyon",
+                        "detailsUrl": "details?doc=com.audiomack",
                         "detailsReusable": true,
                         "unknownCategoryContainer": {},
-                        "descriptionShort": "High quality video calling for Android & iOS phones, tablets, Google Nest & web.",
-                        "reviewQuestionsUrl": "reviewQuestions?doc=com.google.android.apps.tachyon"
+                        "descriptionShort": "Download full tracks, listen to music offline, make unlimited playlists.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.audiomack"
                     }
                 ],
                 "containerMetadata": {
-                    "nextPageUrl": "getCluster?enpt=YmhKPgo8CCAQqfPhnQMQy6TphwIQyMqsHhD30aL5BRD6nPTQAhCVr7K-DBC4-9BBEJjIm7gCEOKHurEBEMbVq-sJUBTyAyMSBQgAEMoBQhpaGAoIRmFjZWJvb2sSBAoAIAEYASAAKgIIAQ&n=20",
+                    "nextPageUrl": "getCluster?enpt=YnNKPgo8CB4QiKi-4QMQy6TphwIQopuBuwMQ4--56Q0QyKigLxD30aL5BRC4-9BBEOKHurEBEKnz4Z0DEMbVq-sJUBTyAy4SBQgAELoBQiVaIwoRY29tLmZhY2Vib29rLmxpdGUSBgoAIAEoABgBIAAqAggB&n=20",
                     "ordered": false
                 },
                 "relatedLinks": {},

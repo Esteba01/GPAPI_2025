@@ -1,11 +1,13 @@
 import sys
 import json
+import os
+
+# Mi Version que sirve 
 
 sys.path.insert(0, "path/to/gpapi.zip")  # Replace with the actual path to the zip file
 
-from gpapi.googleplay import GooglePlayAPI
 from dotenv import load_dotenv
-import os
+from gpapi.googleplay import GooglePlayAPI
 
 try:
     # Initialize the API
@@ -33,10 +35,23 @@ except Exception as e:
 
 try:
     # Search for an app
-    search = str(input("Search for an app - APP NAME: "))
+    search = str(input("Enter the package name of the app (e.g., com.example.app): "))
+    if not search.startswith("com."):
+        print("Error: Please enter a valid package name starting with 'com.'")
+        sys.exit(1)
+
     results = api.search(search)
-    # results = api.search("pinterest")
-    print("Search Results:", results)
+    
+    # Download the APK
+    apk_data = api.download(search)
+    download_folder = "downloads"
+    os.makedirs(download_folder, exist_ok=True)
+
+    apk_file_path = os.path.join(download_folder, f"{search.split('.')[-1]}.apk")
+    with open(apk_file_path, "wb") as apk_file:
+        for chunk in apk_data['file']['data']:
+            apk_file.write(chunk)
+    print(f"APK downloaded to '{apk_file_path}'")
 
     # Export results to a file
     with open("search_results.json", "w", encoding="utf-8") as file:
