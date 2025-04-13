@@ -1,6 +1,7 @@
 import sys
 import json
 import os
+from datetime import datetime
 
 # Mi Version que sirve 
 
@@ -57,5 +58,36 @@ try:
     with open("search_results.json", "w", encoding="utf-8") as file:
         json.dump(results, file, ensure_ascii=False, indent=4)
     print("Results exported to 'search_results.json'")
+    
+    # Extract and save privacy policy URL
+    if results and isinstance(results, list) and len(results) > 0:
+        if 'doc' in results[0] and 'details' in results[0]['doc']:
+            privacy_url = results[0]['doc']['details'].get('privacyPolicyUrl')
+            # Initialize privacy info string
+            privacy_info = []
+            
+            if privacy_url:
+                privacy_info.append(f"Privacy Policy URL: {privacy_url}")
+            else:
+                privacy_info.append("Warning: No privacy policy URL found for this app")
+            
+            # Check for additional privacy-related fields
+            if 'appDetails' in results[0]['doc']['details']:
+                app_details = results[0]['doc']['details']['appDetails']
+                if 'containsAds' in app_details:
+                    privacy_info.append(f"Contains Ads: {'Yes' if app_details['containsAds'] else 'No'}")
+                if 'dataSafety' in app_details:
+                    privacy_info.append(f"Data Safety: {app_details['dataSafety']}")
+            
+            # Print all privacy info
+            print("\n".join(privacy_info))
+            
+            # Save privacy policy info to file
+            os.makedirs("privacy_policies", exist_ok=True)
+            policy_content = f"Privacy Information for {search}\n" + "\n".join(privacy_info) + f"\nLast checked: {datetime.now().strftime('%Y-%m-%d')}"
+            policy_file = os.path.join("privacy_policies", f"privacy_info_{search}.txt")
+            with open(policy_file, "w", encoding="utf-8") as f:
+                f.write(policy_content)
+            print(f"Privacy information saved to '{policy_file}'")
 except Exception as e:
     print(f"Error searching for app: {e}")
