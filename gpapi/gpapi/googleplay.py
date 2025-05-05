@@ -107,6 +107,7 @@ class GooglePlayAPI(object):
         self.session = requests.session()
         self.session.mount('https://', AuthHTTPAdapter())
 
+   
     def setLocale(self, locale):
         self.deviceBuilder.setLocale(locale)
 
@@ -409,6 +410,19 @@ class GooglePlayAPI(object):
             path = DETAILS_URL + "?doc={}".format(requests.utils.quote(packageName))
         data = self.executeRequestApi2(path)
         return utils.parseProtobufObj(data.payload.detailsResponse.docV2)
+    
+
+    def privacyPolicy(self, packageName):
+        """Get app privacy policy from a package name.
+
+        packageName is the app unique ID (usually starting with 'com.')."""
+        path = DETAILS_URL + "?doc={}".format(requests.utils.quote(packageName))
+        data = self.executeRequestApi2(path)
+        try:
+            privacypolicy = data.payload.detailsResponse.docV2.relatedLinks.privacyPolicyUrl
+            return privacypolicy
+        except:
+            raise RequestError('No url for privacy policy')
 
     def bulkDetails(self, packageNames):
         """Get several apps details from a list of package names.
@@ -436,6 +450,9 @@ class GooglePlayAPI(object):
         return [None if not utils.hasDoc(entry) else
                 utils.parseProtobufObj(entry.doc)
                 for entry in response.entry]
+
+
+
 
     def home(self, cat=None):
         path = HOME_URL + "?c=3&nocache_isui=true"
