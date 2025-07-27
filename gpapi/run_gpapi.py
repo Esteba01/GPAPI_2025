@@ -12,7 +12,7 @@ from gpapi.googleplay import GooglePlayAPI
 
 try:
     # Initialize the API
-    api = GooglePlayAPI(locale="en_US", timezone="UTC", device_codename="bacon")
+    api = GooglePlayAPI(locale="es_EC", timezone="UTC", device_codename="sailfish")
     print(f"GOOGLE API: {api}")
 except Exception as e:
     print(f"Error initializing API: {e}")
